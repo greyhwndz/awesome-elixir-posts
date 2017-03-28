@@ -233,6 +233,8 @@
 ### 2016-10-12
 * [Elixir and IO Lists, Part 1: Building Output Efficiently](https://www.bignerdranch.com/blog/elixir-and-io-lists-part-1-building-output-efficiently/) by Nathan Long
 
+### 2016-10-10
+* [Creating a Chatroom Using Phoenix, Elm, and Websockets](http://jeremybellows.com/blog/Creating-a-Chatroom-Using-Phoenix-Elm-And-Websockets) by Jeremy Bellows
 
 ### 2016-10-07
 * [Building A Website With Phoenix Framework](http://technotif.com/building-website-phoenix-framework/)
@@ -245,6 +247,8 @@
 ### 2016-09-20
 * [Is Elixir programming really that hard?](http://cloudless.studio/articles/38-is-elixir-programming-really-that-hard) by Karol Słuszniak
 
+### 2016-09-19
+* [How to Create a Minimal Phoenix Elixir Server Docker Image That is Less Than 100 MB](http://jeremybellows.com/blog/How-to-Create-a-Minimal-Phoenix-Elixir-Server-Docker-Image) by Jeremy Bellows
 
 ### 2016-09-17
 * [Entity Component Systems in Elixir](http://yos.io/2016/09/17/entity-component-systems/) by Yos Riady
