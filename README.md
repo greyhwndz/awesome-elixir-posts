@@ -123,8 +123,16 @@
 * [How Discord handles push request bursts of over a million per minute with Elixir’s GenStage](https://blog.discordapp.com/how-discord-handles-push-request-bursts-of-over-a-million-per-minute-with-elixirs-genstage-8f899f0221b4#.l7vqsj8b7) by Jesse Howarth
 
 
+### 2016-12-08
+* [Chat web-app using Phoenix and Vue.js — Part 3](https://medium.com/@jespr/chat-web-app-using-phoenix-and-vue-js-part-3-fb7bfec5d9b4) by Jesper Christiansen
+
+
 ### 2016-12-07
 * [Many to many and upserts](http://blog.plataformatec.com.br/2016/12/many-to-many-and-upserts/) by José Valim
+
+
+### 2016-12-06
+* [Chat web-app using Phoenix and Vue.js — Part 2](https://medium.com/@jespr/chat-web-app-using-phoenix-and-vue-js-part-2-67ff58b664f4) by Jesper Christiansen
 
 
 ### 2016-12-05
@@ -133,6 +141,10 @@
 
 ### 2016-12-03
 * [Phoenix GraphQL Tutorial with Absinthe: Add CRUD Using Mutations](https://ryanswapp.com/2016/12/03/phoenix-graphql-tutorial-with-phoenix-add-crud-using-mutations/) by Ryan Swapp
+
+
+### 2016-12-01
+* [Chat web-app using Phoenix and Vue.js — Part 1](https://medium.com/@jespr/create-a-simple-chat-web-app-using-phoenix-and-vue-js-bc5d82e53f9b#.m5mkpfmh0) by Jesper Christiansen
 
 
 ### 2016-11-28
@@ -153,10 +165,15 @@
 
 ### 2016-11-22
 * [Phoenix, Elm, and multiple single-page apps](http://blog.roundingpegs.com/phoenix-elm-and-multiple-single-page-apps/) by Brian Marick
+* [Building Many-To-Many Associations with Embedded Schemas in Ecto and Phoenix](https://medium.com/@abitdodgy/building-many-to-many-associations-with-embedded-schemas-in-ecto-and-phoenix-e420abc4c6ea#.1idtlmags) by Mohamad El-Husseini
 
 
 ### 2016-11-21
 * [USING APOLLO CLIENT WITH ELIXIR'S ABSINTHE](http://www.east5th.co/blog/2016/11/21/using-apollo-client-with-elixirs-absinthe/) by Pete Corey
+
+
+### 2016-11-19
+* [Building Many-to-Many Associations with cast_assoc and Nested Forms in Phoenix and Ecto](https://medium.com/@abitdodgy/building-many-to-many-nested-forms-in-phoenix-and-ecto-47172e3321e7#.nv8kqm9jy) by Mohamad El-Husseini
 
 
 ### 2016-11-14
@@ -427,6 +444,10 @@
 * [Introduction to Elixir Processes](http://blog.songsaboutsnow.com/elixir/processes/2016/04/06/intro-to-elixir-processes.html) by Michael Berkowitz
 
 
+### 2016-04-05
+* [Writing an Ember Backend in Phoenix, Part 2: Using ja_serializer](https://medium.com/developers-writing/writing-an-ember-backend-in-phoenix-part-2-using-ja-serializer-ea89a522217b#.arryuybzd) by Brandon Richey
+
+
 ### 2016-04-04
 * [Let's Build Something: Elixir, Part 3 - Getting Started with ExUnit for Testing](http://tech.strofcon.org/2016/04/lets-build-something-elixir-part-3.html) by Cody Boggs
 
@@ -434,6 +455,7 @@
 ### 2016-03-30
 * [Let's Build Something: Elixir, Part 2 - Supervising Our GenServer](http://tech.strofcon.org/2016/03/lets-build-something-elixir-part-2.html) by Cody Boggs
 * [Elixir installations that don’t hurt](https://medium.com/@Oxyrus/elixir-installations-that-don-t-hurt-71fa0a1d8c41) by Andrés Pérez
+* [Writing an Ember Backend in Phoenix](https://medium.com/developers-writing/writing-an-ember-backend-in-phoenix-f39f12725377#.9raqccggf) by Brandon Richey
 
 
 ### 2016-03-26
@@ -546,6 +568,10 @@
 
 ### 2016-01-03
 * [Realtime chat with Vue.js and Phoenix](http://fullstackstanley.com/read/realtime-chat-with-vue-js-and-phoenix) by Mitch Stanley
+
+
+### 2015-12-24
+* [Setting up Elm with Phoenix](https://medium.com/@diamondgfx/setting-up-elm-with-phoenix-be3a9f55bac2#.97uwzoye1) by Brandon Richey
 
 
 ### 2015-11-12
