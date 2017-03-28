@@ -14,12 +14,17 @@
 * [Understanding Pattern Matching](http://www.littlealchemist.io/2017-03-15-understading-elixir-pattern-matching/)
 
 
+### 2017-03-14
+* [Common Pitfalls in Elixir Coding](https://medium.com/blackode/common-pitfalls-in-elixir-coding-a9f8a5db2877#.y1krr9x7q) by Blackode
+
+
 ### 2017-03-12
 * [Elixometer and InfluxDB](http://www.johnpdaigle.com/complexable/2016/03/12/elixometer-and-influxdb.html)
 
 
 ### 2017-03-11
 * [Bootstrapping API project with Phoenix 1.3](http://cloudless.studio/articles/45-bootstrapping-api-project-with-phoenix-1-3) by Karol Słuszniak
+* [10 killer Elixir Tips #3](https://medium.com/blackode/10-killer-elixir-tips-3-5c196eaec376#.5j0yfipqt) by Blackode
 
 
 ### 2017-03-08
@@ -35,13 +40,38 @@
 * [Resetting a test database with Ecto](http://www.johnpdaigle.com/complexable/2016/03/05/resetting-a-test-database-with-ecto.html)
 
 
-### 2017-03-20
-* [Building a Simple App with Plug.Router and Ecto](http://www.johnpdaigle.com/complexable/2016/02/20/building-a-simple-app-with-plugrouter-and-ecto.html)
+### 2017-03-02
+* [How to Integrate Your Phoenix Application with Semantic UI and Webpack](https://www.icicletech.com/blog/how-to-integrate-your-phoenix-application-with-semantic-ui-and-webpack) by Murtaza Basrai
+
+
+### 2017-02-27
+* [Mix Task Creation in Elixir Project](https://medium.com/blackode/mix-task-creation-in-elixir-project-d89e49267fe3#.49cfru6ql) by Blackode
+
+
+### 2017-02-26
+* [10 Killer Elixir Tips #2](https://medium.com/blackode/10-killer-elixir-tips-2-c5f87f8a70c8#.50k3xf52z) by Blackode
 
 
 ### 2017-02-22
 * [End-to-end Testing in Elixir with Hound](https://semaphoreci.com/community/tutorials/end-to-end-testing-in-elixir-with-hound) by Maciej Woźniak
 * [More Changesets, Less Problems](https://medium.com/@QuantLayer/more-changesets-less-problems-bec2ca502364#.fq0t5n3by) by Vikram Ramakrishnan
+
+
+### 2017-02-20
+* [Building a Simple App with Plug.Router and Ecto](http://www.johnpdaigle.com/complexable/2016/02/20/building-a-simple-app-with-plugrouter-and-ecto.html)
+
+
+### 2017-02-17
+* [10 Killer Elixir Tips](https://medium.com/blackode/10-killer-elixir-tips-2a9be1bec9be) by Blackode
+* [When and Where to use cast,call & info messages in Elixir & Erlang — GenServer](https://medium.com/blackode/when-and-where-to-use-cast-cal-info-messages-in-elixir-erlang-genserver-9baf937b6494#.qrls86a0w) by Blackode
+
+
+### 2017-02-09
+* [How to fix Ecto duplicate name migrations error](http://minhajuddin.com/2017/02/09/how-to-fix-ecto-duplicate-name-migrations-error/) by Khaja Minhajuddin
+
+
+### 2017-01-26
+* [Comparing Elixir and Go](https://blog.codeship.com/comparing-elixir-go/) by Barry Jones
 
 
 ### 2017-01-25
@@ -54,6 +84,10 @@
 
 ### 2017-01-20
 * [Using Elixir's GenStage and Flow to build product recommendations](https://10consulting.com/2017/01/20/building-product-recommendations-using-elixir-gen-stage-flow/)
+
+
+### 2017-01-18
+* [A simpler way to generate an incrementing version for elixir apps](http://minhajuddin.com/2017/01/18/a-simpler-way-to-generate-an-incrementing-version-for-elixir-apps/) by Khaja Minhajuddin
 
 
 ### 2017-01-16
@@ -81,6 +115,18 @@
 * [Many to many and upserts](http://blog.plataformatec.com.br/2016/12/many-to-many-and-upserts/) by José Valim
 
 
+### 2016-12-05
+* [HOW TO USE MONGODB WITH ELIXIR - REVISITED](http://www.east5th.co/blog/2016/12/05/how-to-use-mongodb-with-elixir-revisited/) by Pete Corey
+
+
+### 2016-12-03
+* [Phoenix GraphQL Tutorial with Absinthe: Add CRUD Using Mutations](https://ryanswapp.com/2016/12/03/phoenix-graphql-tutorial-with-phoenix-add-crud-using-mutations/) by Ryan Swapp
+
+
+### 2016-11-28
+* [ New Router features in Plug 1.3](https://christopheradams.io/articles/2016/11/new-router-features-in-plug-1-3/) by Christopher Adams
+
+
 ### 2016-11-26
 * [Elixir/Phoenix deployments using Distillery](http://crypt.codemancers.com/posts/2016-10-06-elixir-phoenix-distillery/) by Yuva
 
@@ -91,6 +137,35 @@
 
 ### 2016-11-23
 * [Using Ecto.Multi for Complex Database Transactions](https://hackernoon.com/using-ecto-multi-for-complex-database-transactions-70aac419e81c) by Vikram Ramakrishnan
+
+
+### 2016-11-22
+* [Phoenix, Elm, and multiple single-page apps](http://blog.roundingpegs.com/phoenix-elm-and-multiple-single-page-apps/) by Brian Marick
+
+
+### 2016-11-21
+* [USING APOLLO CLIENT WITH ELIXIR'S ABSINTHE](http://www.east5th.co/blog/2016/11/21/using-apollo-client-with-elixirs-absinthe/) by Pete Corey
+
+
+### 2016-11-14
+* [BASIC METEOR AUTHENTICATION IN PHOENIX](http://www.east5th.co/blog/2016/11/14/basic-meteor-authentication-in-phoenix/) by Pete Corey
+
+
+### 2016-11-13
+* [How to deploy a simple phoenix app on a single server using distillery](http://minhajuddin.com/2016/11/13/how-to-deploy-a-simple-phoenix-app-on-a-single-server-using-distillery/) by Khaja Minhajuddin
+
+
+### 2016-11-07
+* [NOSQL INJECTION IN PHOENIX APPLICATIONS](http://www.east5th.co/blog/2016/11/07/nosql-injection-in-phoenix-applications/) by Pete Corey
+
+
+### 2016-10-31
+* [HOW TO USE MONGODB WITH ELIXIR](http://www.east5th.co/blog/2016/10/31/how-to-use-mongodb-with-elixir/) by Pete Corey
+* [Elixir process timeout pitfall](http://minhajuddin.com/2016/10/31/elixir-process-timeout-pitfall/) by Khaja Minhajuddin
+
+
+### 2016-10-29
+* [Roll your own Email & Password Authentication with Guardian, Comeonin & Phoenix](https://henricus.xyz/roll-your-own-email-password-authentication-with-guardian-comeonin-phoenix-dffd39c6ca44) by Henricus Louwhoff
 
 
 ### 2016-10-27
@@ -130,6 +205,10 @@
 * [Elixir and IO Lists, Part 1: Building Output Efficiently](https://www.bignerdranch.com/blog/elixir-and-io-lists-part-1-building-output-efficiently/) by Nathan Long
 
 
+### 2016-10-07
+* [Building A Website With Phoenix Framework](http://technotif.com/building-website-phoenix-framework/)
+
+
 ### 2016-09-26
 * [Dynamically update Phoenix forms through sockets](https://medium.com/@Alexandre_Herve/dynamically-update-phoenix-forms-through-socket-f696d7bb585d#.nodojkavd) by Alexandre Hervé
 
@@ -142,6 +221,10 @@
 * [Entity Component Systems in Elixir](http://yos.io/2016/09/17/entity-component-systems/) by Yos Riady
 
 
+### 2016-09-06
+* [How to Set up a Distributed Elixir Cluster on Amazon EC2](http://engineering.pivotal.io/post/how-to-set-up-an-elixir-cluster-on-amazon-ec2/) by Benjamin Tan Wei Hao
+
+
 ### 2016-08-17
 * [Embedding Elm in Phoenix](http://blog.overminddl1.com/posts/embedding-elm-in-phoenix/) by OvermindDL1
 * [Counter Caching in Phoenix](https://medium.com/@lukerollans_17079/counter-caching-in-phoenix-8ac372e5c0c5#.hozp3cf7y) by Luke Rollans
@@ -149,6 +232,10 @@
 
 ### 2016-08-24
 * [Phoenix vs Rails: Views and helpers](http://cloudless.studio/articles/25-phoenix-vs-rails-views-and-helpers) by Karol Słuszniak
+
+
+### 2016-08-16
+* [Taking advantage of Phoenix rendering and iodata (part 1)](http://blog.roundingpegs.com/taking-advantage-of-phoenix-rendering-and-iodata-part-1/) by Brian Marick
 
 
 ### 2016-08-15
@@ -166,6 +253,10 @@
 ### 2016-07-27
 * [Phoenix API versioning: Accept Header](http://elviovicosa.com/blog/2016/07/27/phoenix-api-versioning-accept-header.html) by Elvio Vicosa
 * [Implementing page-specific titles in Phoenix](http://cloudless.studio/articles/27-implementing-page-specific-titles-in-phoenix) by Karol Słuszniak
+
+
+### 2016-07-24
+* [I Accidentally Some Machine Learning - My Story of A Month of Learning Elixir](http://fredwu.me/post/147855522498/i-accidentally-some-machine-learning-my-story-of) by Fred Wu
 
 
 ### 2016-07-22
@@ -465,5 +556,13 @@
 * [Elixir in times of microservices](http://blog.plataformatec.com.br/2015/06/elixir-in-times-of-microservices/) by José Valim
 
 
+### 2015-02-05
+* [How to build Streams in Elixir easily with Stream.resource/3 Awesomeness](http://benjamintan.io/blog/2015/02/05/how-to-build-streams-in-elixir-easily-with-stream-resource-awesomeness/) by Benjamin Tan Wei Hao
+
+
 ### 2015-02-01
 * [Why I’m betting on Elixir](https://medium.com/@kenmazaika/why-im-betting-on-elixir-7c8f847b58) by Ken Mazaika
+
+
+### 2014-10-11
+* [Producer-Consumer problem in Elixir](http://benjamintan.io/blog/2014/10/11/producer-consumer-problem-in-elixir/) by Benjamin Tan Wei Hao
