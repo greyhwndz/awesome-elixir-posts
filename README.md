@@ -1,6 +1,11 @@
 # Awesome Elixir Posts
 
 
+### 2017-03-27
+* [Ecto Custom Types, a practical case with enumerize (Rails gem)](https://medium.com/acutario/ecto-custom-types-a-practical-case-with-enumerize-rails-gem-b5496c2912ac#.3a6im5u50) by Rubén Sierra
+* [Decorating Elixir](https://medium.com/acutario/decorating-elixir-af08bd46b2fc) by Rubén Sierra
+
+
 ### 2017-03-25
 * [E-Commerce with Elixir](https://benmorgan.io/e-commerce-with-elixir/)
 * [Elixir to Start With](https://medium.com/@kaveh.shahbazian/elixir-to-start-with-7cefbbcfa74c#.qtfg9n157)
