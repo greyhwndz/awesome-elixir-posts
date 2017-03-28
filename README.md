@@ -69,6 +69,12 @@
 
 ### 2017-02-09
 * [How to fix Ecto duplicate name migrations error](http://minhajuddin.com/2017/02/09/how-to-fix-ecto-duplicate-name-migrations-error/) by Khaja Minhajuddin
+* [Phoenix with Ecto and MongoDb](https://tomjoro.github.io/2017-02-09-ecto3-mongodb-phoenix/) by Thomas O'Rourke
+* [Merging two sorted lists in Elixir](https://tomjoro.github.io/2017-02-09-merging-two-lists-in-elixir/) by Thomas O'Rourke
+
+
+### 2017-02-07
+* [User and Permissions Management Service](https://tomjoro.github.io/2017-02-07-rights-management-api/) by Thomas O'Rourke
 
 
 ### 2017-01-26
