@@ -8,6 +8,7 @@
 
 ### 2017-03-17
 * [Small data with Elixir](http://blog.plataformatec.com.br/2017/03/small-data-with-elixir/) by José Valim
+* [Distributed Elixir on… Heroku?](https://medium.com/@karmajunkie/distributed-elixir-on-heroku-59b691d9868e#.2zrekvh4d) by Keith Gaddis
 
 
 ### 2017-03-15
