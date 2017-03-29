@@ -109,6 +109,10 @@
 * [Debugging incoming requests in a Phoenix router](https://medium.com/@QuantLayer/debugging-incoming-requests-in-phoenix-router-19ec3c55d04e#.5fhy8zcnk) by Vikram Ramakrishnan
 
 
+### 2017-01-08
+* [Using Ecto.Multi to Group Database Operations](http://geoffreylessel.com/2017/using-ecto-multi-to-group-database-operations/) by Geoffrey Lessel
+
+
 ### 2017-01-04
 * [Building a CQRS/ES web application in Elixir using Phoenix](https://10consulting.com/2017/01/04/building-a-cqrs-web-application-in-elixir-using-phoenix/)
 
@@ -207,6 +211,10 @@
 * [Introduction to Testing Elixir Applications with ExUnit](https://semaphoreci.com/community/tutorials/introduction-to-testing-elixir-applications-with-exunit) by Cody Boggs
 
 
+### 2016-10-25
+* [Hosting A Phoenix App in a Subdirectory With nginx](http://geoffreylessel.com/2016/hosting-a-phoenix-app-in-a-subdirectory-with-nginx/) by Geoffrey Lessel
+
+
 ### 2016-10-23
 * [Let’s Build |> a Slack Clone with Elixir, Phoenix, and React (part 6— Phoenix Presence)](https://medium.com/@benhansen/lets-build-a-slack-clone-with-elixir-phoenix-and-react-part-6-phoenix-presence-e10c529e239b) by Ben Hansen
 * [Let’s Build |> a Slack Clone with Elixir, Phoenix, and React (part 7 — Deploy to Heroku & AWS S3)](https://medium.com/@benhansen/lets-build-a-slack-clone-with-elixir-phoenix-and-react-part-7-deploy-to-heroku-6b3d1ce9bfd5) by Ben Hansen
@@ -291,6 +299,9 @@
 * [Implementing page-specific titles in Phoenix](http://cloudless.studio/articles/27-implementing-page-specific-titles-in-phoenix) by Karol Słuszniak
 
 
+### 2016-07-26
+* [Connecting to Multiple Databases with Ecto](http://geoffreylessel.com/2016/connecting-to-multiple-databases-with-ecto/) by Geoffrey Lessel
+
 ### 2016-07-24
 * [I Accidentally Some Machine Learning - My Story of A Month of Learning Elixir](http://fredwu.me/post/147855522498/i-accidentally-some-machine-learning-my-story-of) by Fred Wu
 
@@ -310,6 +321,9 @@
 ### 2016-06-30
 * [Phoenix vs Rails: Mix and Rake tasks](http://cloudless.studio/articles/18-phoenix-vs-rails-mix-and-rake-tasks) by Karol Słuszniak
 
+
+### 2016-06-29
+* [Using Ecto With an Existing MySQL Database](http://geoffreylessel.com/2016/using-ecto-with-an-existing-mysql-database/) by Geoffrey Lessel
 
 ### 2016-06-28
 * [Special Processes in OTP](http://blog.carbonfive.com/2016/06/28/special-processes-in-otp/)
@@ -339,6 +353,7 @@
 
 ### 2016-06-08
 * [Model callbacks in Phoenix, Ecto and Rails](http://cloudless.studio/articles/11-model-callbacks-in-phoenix-ecto-and-rails) by Karol Słuszniak
+* [Using Mix to Easily Create an Ecto Repo](http://geoffreylessel.com/2016/using-mix-to-easily-create-an-ecto-repo/) by Geoffrey Lessel
 
 
 ### 2016-06-07
@@ -360,6 +375,10 @@
 
 ### 2016-06-01
 * [Continuous Delivery for Elixir (Part 4 — Use a release, troubles cease)](https://medium.com/@jeffweiss/continuous-delivery-for-elixir-part-4-use-a-release-troubles-cease-15af765b4772) by Jeff Weiss
+
+
+### 2016-05-30
+* [From Zero To Ecto in 10 Minutes](http://geoffreylessel.com/2016/from-zero-to-ecto-in-10-minutes/) by Geoffrey Lessel
 
 
 ### 2016-05-29
@@ -406,6 +425,9 @@
 
 ### 2016-05-07
 * [Phoenix + React: love story. RePh 1.](https://medium.com/@chvanikoff/phoenix-react-love-story-reph-1-c68512cfe18#.lqvzy6hic) by Roman Chvanikov
+
+### 2016-05-04
+* [Using Ecto For Formula 1 Standings](http://geoffreylessel.com/2016/f1-standings-with-ecto/) by Geoffrey Lessel
 
 
 ### 2016-04-29
