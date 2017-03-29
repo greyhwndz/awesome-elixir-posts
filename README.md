@@ -1,7 +1,6 @@
 # Awesome Elixir Posts
 
 ### 2017-03-28
-
 * [A lot of Piping involved](http://www.littlealchemist.io/2017-03-28-A-lot-of-piping-involved/) by Leandro Bighetti
 
 ### 2017-03-27
