@@ -11,6 +11,10 @@
 * [Elixir to Start With](https://medium.com/@kaveh.shahbazian/elixir-to-start-with-7cefbbcfa74c#.qtfg9n157)
 
 
+### 2017-03-22
+* [Tuple Types in Erlang and Elixir](http://get-finch.com/2017/03/22/tuple_types_in_erlang_and_elixir.html) by Zach Kessin
+
+
 ### 2017-03-17
 * [Small data with Elixir](http://blog.plataformatec.com.br/2017/03/small-data-with-elixir/) by José Valim
 * [Distributed Elixir on… Heroku?](https://medium.com/@karmajunkie/distributed-elixir-on-heroku-59b691d9868e#.2zrekvh4d) by Keith Gaddis
@@ -61,6 +65,7 @@
 ### 2017-02-22
 * [End-to-end Testing in Elixir with Hound](https://semaphoreci.com/community/tutorials/end-to-end-testing-in-elixir-with-hound) by Maciej Woźniak
 * [More Changesets, Less Problems](https://medium.com/@QuantLayer/more-changesets-less-problems-bec2ca502364#.fq0t5n3by) by Vikram Ramakrishnan
+* [Replacing GenEvent with GenStage in Verk](http://www.rokkincat.com/blog/2017/02/22/elixir-verk-genstage) by Mitchell Henke
 
 
 ### 2017-02-20
@@ -238,6 +243,10 @@
 * [Building A Website With Phoenix Framework](http://technotif.com/building-website-phoenix-framework/)
 
 
+### 2016-09-29
+* [Dynamic forms with Phoenix](http://blog.plataformatec.com.br/2016/09/dynamic-forms-with-phoenix/) by José Valim
+
+
 ### 2016-09-26
 * [Dynamically update Phoenix forms through sockets](https://medium.com/@Alexandre_Herve/dynamically-update-phoenix-forms-through-socket-f696d7bb585d#.nodojkavd) by Alexandre Hervé
 
@@ -298,6 +307,7 @@
 
 ### 2016-07-06
 * [insanity with elixir + phoenix + postgresql](http://www.brightball.com/articles/insanity-with-elixir-phoenix-postgresql) by Barry Jones
+* [Understanding deps and applications in your Mixfile](http://blog.plataformatec.com.br/2016/07/understanding-deps-and-applications-in-your-mixfile/) by João Britto
 
 
 ### 2016-06-30
