@@ -1,5 +1,8 @@
 # Awesome Elixir Posts
 
+### 2017-03-28
+
+* [A lot of Piping involved](http://www.littlealchemist.io/2017-03-28-A-lot-of-piping-involved/) by Leandro Bighetti
 
 ### 2017-03-27
 * [Ecto Custom Types, a practical case with enumerize (Rails gem)](https://medium.com/acutario/ecto-custom-types-a-practical-case-with-enumerize-rails-gem-b5496c2912ac#.3a6im5u50) by Rubén Sierra
@@ -17,7 +20,7 @@
 
 
 ### 2017-03-15
-* [Understanding Pattern Matching](http://www.littlealchemist.io/2017-03-15-understading-elixir-pattern-matching/)
+* [Understanding Pattern Matching](http://www.littlealchemist.io/2017-03-15-understading-elixir-pattern-matching/) by Leandro Bighetti
 
 
 ### 2017-03-14
@@ -38,7 +41,7 @@
 
 
 ### 2017-03-07
-* [Elixir - 3 Reasons Why You Should Be Using It](http://www.littlealchemist.io/2017-03-07-elixir-3-reasons-why-you-should-be-using-it/)
+* [Elixir - 3 Reasons Why You Should Be Using It](http://www.littlealchemist.io/2017-03-07-elixir-3-reasons-why-you-should-be-using-it/) by Leandro Bighetti
 * [Elixir - different kind of promises](https://www.amberbit.com/blog/2017/3/7/elixir-different-kind-of-promises/)
 
 
@@ -87,7 +90,7 @@
 
 
 ### 2017-01-25
-* [Setting up Bucklescript with Phoenix](http://blog.overminddl1.com/posts/setting-up-bucklescript-with-phoenix/) by 
+* [Setting up Bucklescript with Phoenix](http://blog.overminddl1.com/posts/setting-up-bucklescript-with-phoenix/) by
 
 
 ### 2017-01-24
@@ -198,7 +201,7 @@
 
 
 ### 2016-10-27
-* [A simple ticker to receive tick events for every interval in Elixir](http://minhajuddin.com/2016/10/27/a-simple-ticker-to-receive-tick-events-for-every-interval-in-elixir/) by 
+* [A simple ticker to receive tick events for every interval in Elixir](http://minhajuddin.com/2016/10/27/a-simple-ticker-to-receive-tick-events-for-every-interval-in-elixir/) by
 
 ### 2016-10-26
 * [Introduction to Testing Elixir Applications with ExUnit](https://semaphoreci.com/community/tutorials/introduction-to-testing-elixir-applications-with-exunit) by Cody Boggs
@@ -591,7 +594,7 @@
 
 
 ### 2015-09-25
-* [Complete Guide to Deploying Phoenix Applications using Dokku 0.4.0+](https://blog.praveenperera.com/deploying-phoenix-applications-using-dokku/) 
+* [Complete Guide to Deploying Phoenix Applications using Dokku 0.4.0+](https://blog.praveenperera.com/deploying-phoenix-applications-using-dokku/)
 
 
 ### 2015-06-30
