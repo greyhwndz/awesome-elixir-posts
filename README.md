@@ -46,6 +46,7 @@
 ### 2017-03-07
 * [Elixir - 3 Reasons Why You Should Be Using It](http://www.littlealchemist.io/2017-03-07-elixir-3-reasons-why-you-should-be-using-it/) by Leandro Bighetti
 * [Elixir - different kind of promises](https://www.amberbit.com/blog/2017/3/7/elixir-different-kind-of-promises/)
+* [Concurrency Abstractions in Elixir](https://blog.codeship.com/concurrency-abstractions-in-elixir/) by Leigh Halliday
 
 
 ### 2017-03-05
@@ -54,6 +55,7 @@
 
 ### 2017-03-02
 * [How to Integrate Your Phoenix Application with Semantic UI and Webpack](https://www.icicletech.com/blog/how-to-integrate-your-phoenix-application-with-semantic-ui-and-webpack) by Murtaza Basrai
+* [Understanding Elixir Types](https://blog.codeship.com/understanding-elixir-types/) by Barry Jones
 
 
 ### 2017-02-27
@@ -77,6 +79,10 @@
 ### 2017-02-17
 * [10 Killer Elixir Tips](https://medium.com/blackode/10-killer-elixir-tips-2a9be1bec9be) by Blackode
 * [When and Where to use cast,call & info messages in Elixir & Erlang — GenServer](https://medium.com/blackode/when-and-where-to-use-cast-cal-info-messages-in-elixir-erlang-genserver-9baf937b6494#.qrls86a0w) by Blackode
+
+
+### 2017-02-14
+* [Concurrency in Elixir](https://blog.codeship.com/concurrency-in-elixir/) by Leigh Halliday
 
 
 ### 2017-02-09
@@ -248,11 +254,21 @@
 ### 2016-10-12
 * [Elixir and IO Lists, Part 1: Building Output Efficiently](https://www.bignerdranch.com/blog/elixir-and-io-lists-part-1-building-output-efficiently/) by Nathan Long
 
+
 ### 2016-10-10
 * [Creating a Chatroom Using Phoenix, Elm, and Websockets](http://jeremybellows.com/blog/Creating-a-Chatroom-Using-Phoenix-Elm-And-Websockets) by Jeremy Bellows
 
+
+### 2016-10-08
+* [Using GenStage to Notify a Phoenix Channel of Updates in Elixir](http://learningelixir.joekain.com/using-gen-stage-to-notify-a-channel/) by Joseph Kain
+
+
 ### 2016-10-07
 * [Building A Website With Phoenix Framework](http://technotif.com/building-website-phoenix-framework/)
+
+
+### 2016-10-05
+* [Learning Elixir's GenStage](http://learningelixir.joekain.com/gen-stage/) by Joseph Kain
 
 
 ### 2016-09-29
@@ -443,12 +459,17 @@
 * [Building Phoenix Battleship](http://codeloveandboards.com/blog/2016/04/29/building-phoenix-battleship-pt-1/)
 
 
+### 2016-04-26
+* [Using Canary for Authorization in Phoenix](http://learningelixir.joekain.com/canary-authorization-with-phoenix/) by Joseph Kain
+
+
 ### 2016-04-22
 * [Page specific JavaScript in Phoenix framework (pt.1)](https://blog.diacode.com/page-specific-javascript-in-phoenix-framework-pt-1)
 
 
 ### 2016-04-19
 * [Elixir and Phoenix: The Future of Web APIs and Apps?](http://blog.carbonfive.com/2016/04/19/elixir-and-phoenix-the-future-of-web-apis-and-apps/) by Christian Nelson
+* [Using Guardian and Canary with Phoenix](http://learningelixir.joekain.com/using-guardian-and-canary-with-phoenix/) by Joseph Kain
 
 
 ### 2016-04-18
@@ -509,7 +530,11 @@
 * [Let's Build Something: Elixir, Part 1 - A Simple GenServer](http://tech.strofcon.org/2016/03/lets-build-elixir-part-1.html) by Cody Boggs
 
 
-### 3016-03-13
+### 2016-03-15
+* [Querying For Models With no Matching Associations in Ecto](http://learningelixir.joekain.com/none-of-the-associations-in-ecto/) by Joseph Kain
+
+
+### 2016-03-13
 * [Managing Two Million Webservers](https://joearms.github.io/2016/03/13/Managing-two-million-webservers.html) by Joe Armstrong
 
 
@@ -586,8 +611,16 @@
 * [Driving Phoenix sockets](http://www.theerlangelist.com/article/driving_phoenix_sockets) by Saša Jurić
 
 
+### 2016-01-20
+* [Use, import, require, what do they mean in Elixir?](http://learningelixir.joekain.com/use-import-require-in-elixir/) by Joseph Kain
+
+
 ### 2016-01-16
 * [Test-Driven APIs with Phoenix and Elixir](https://semaphoreci.com/community/tutorials/test-driven-apis-with-phoenix-and-elixir) by Jader Correa
+
+
+### 2016-01-15
+* [Installing multiple Elixir versions with Kiex](http://learningelixir.joekain.com/installing-multiple-elixir-version-with-kiex/) by Joseph Kain
 
 
 ### 2016-01-14
@@ -602,6 +635,7 @@
 ### 2016-01-08
 * [Phoenix/Elixir App Secured with Let’s Encrypt](https://medium.com/@a4word/phoenix-app-secured-with-let-s-encrypt-469ac0995775#.turtspfg7) by Andrew Forward
 * [Setting Up Phoenix/Elixir With Nginx and LetsEncrypt](https://medium.com/@a4word/setting-up-phoenix-elixir-with-nginx-and-letsencrypt-ada9398a9b2c) by Andrew Forward
+* [Experimenting with Ecto Queries](http://learningelixir.joekain.com/experiments-with-ecto-queries/) by Joseph Kain
 
 
 ### 2016-01-03
@@ -618,6 +652,10 @@
 
 ### 2015-11-04
 * [CQRS with Elixir and Phoenix](http://jfcloutier.github.io/jekyll/update/2015/11/04/cqrs_elixir_phoenix.html) by Jean-François Cloutier
+
+
+### 2015-10-27
+* [Designing with OTP Applications in Elixir](http://learningelixir.joekain.com/designing-with-otp-applications-in-elixir/) by Joseph Kain
 
 
 ### 2015-10-14
