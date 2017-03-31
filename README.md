@@ -1,6 +1,6 @@
 # Awesome Elixir Posts
 
-#### Updated on: 2017-03-30
+#### Updated on: 2017-04-01
 
 
 ### 2017-03-28
@@ -464,6 +464,7 @@
 
 ### 2016-04-26
 * [Using Canary for Authorization in Phoenix](http://learningelixir.joekain.com/canary-authorization-with-phoenix/) by Joseph Kain
+* [Processes in Elixir](http://hostiledeveloper.com/2016/04/26/processes-in-elixir.html) by Steven Nunez
 
 
 ### 2016-04-22
@@ -596,6 +597,7 @@
 
 ### 2016-02-04
 * [Working around timing issues in docker compose](https://floriank.github.io/post/working-around-timing-issues-in-docker-compose/) by Florian Kraft
+* [Hey! Watch it!...or how to monitor files in Elixir](http://hostiledeveloper.com/2016/02/24/hey-watch-it-or-how-to-monitor-files-in-elixir.html) by Steven Nunez
 
 
 ### 2016-02-02
@@ -671,6 +673,10 @@
 
 ### 2015-06-30
 * [Elixir in times of microservices](http://blog.plataformatec.com.br/2015/06/elixir-in-times-of-microservices/) by José Valim
+
+
+### 2015-05-20
+* [Elixir - Tuples vs Lists](http://hostiledeveloper.com/2015/05/20/elixir-tuples-vs-lists.html) by Steven Nunez
 
 
 ### 2015-02-05
