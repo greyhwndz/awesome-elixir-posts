@@ -1,14 +1,40 @@
 # Awesome Elixir Posts
 
-#### Updated on: 2017-04-01
+#### Updated on: 2017-04-05
+
+
+
+### 2017-04-04
+* [Subscribe to messages with pattern matching](https://medium.com/@lasseebert/subscribe-to-messages-with-pattern-matching-8723f5121135) by Lasse Ebert
+
+
+### 2017-04-03
+* [Little things that saves time in Elixir](https://medium.com/blackode/little-things-that-saves-time-in-elixir-109d0662fc55) by Blackode
+
+
+### 2017-04-02
+* [Elixir Math Tips](http://awochna.com/2017/04/02/elixir-math.html) by Alex Wochna
+
+
+### 2017-03-31
+* [Elixir Functions: Everything you wanted to know but were too afraid to ask!](https://lute.io/elixir-functions-everything-you-wanted-to-know/) by Rob Baruch
+
+
+### 2017-03-29
+* [Setting locale variable for fixing unicode issue for Elixir](https://samueltthomas.com/setting-locale-for-fixing-unicode-issue-for-elixir) by Samuel Thomas
 
 
 ### 2017-03-28
 * [A lot of Piping involved](http://www.littlealchemist.io/2017-03-28-A-lot-of-piping-involved/) by Leandro Bighetti
 
+
 ### 2017-03-27
 * [Ecto Custom Types, a practical case with enumerize (Rails gem)](https://medium.com/acutario/ecto-custom-types-a-practical-case-with-enumerize-rails-gem-b5496c2912ac#.3a6im5u50) by Rubén Sierra
 * [Decorating Elixir](https://medium.com/acutario/decorating-elixir-af08bd46b2fc) by Rubén Sierra
+
+
+### 2017-03-26
+* [Difference between views and templates in Phoenix](https://samueltthomas.com/difference-between-views-and-templates-in-phoenix) by Samuel Thomas
 
 
 ### 2017-03-25
@@ -42,6 +68,10 @@
 * [10 killer Elixir Tips #3](https://medium.com/blackode/10-killer-elixir-tips-3-5c196eaec376#.5j0yfipqt) by Blackode
 
 
+### 2017-03-09
+* [How to use Onesignal REST API with Elixir & Phoenix](https://samueltthomas.com/how-to-use-onesignal-rest-api-with-elixir-phoenix) by Samuel Thomas
+
+
 ### 2017-03-08
 * [Writing Custom Validations for Ecto Changesets](https://medium.com/@QuantLayer/writing-custom-validations-for-ecto-changesets-4971881c7684) by Vikram Ramakrishnan
 
@@ -52,8 +82,16 @@
 * [Concurrency Abstractions in Elixir](https://blog.codeship.com/concurrency-abstractions-in-elixir/) by Leigh Halliday
 
 
+### 2017-03-06
+* [GenStage for continuous job processing](https://labs.uswitch.com/genstage-for-continuous-job-processing/) by Tomasz Tomczyk
+
+
 ### 2017-03-05
 * [Resetting a test database with Ecto](http://www.johnpdaigle.com/complexable/2016/03/05/resetting-a-test-database-with-ecto.html)
+
+
+### 2017-03-03
+* [Elixir State Management: Agent or GenServer?](http://awochna.com/2017/03/03/elixir-state-management.html) by Alex Wochna
 
 
 ### 2017-03-02
@@ -96,6 +134,14 @@
 
 ### 2017-02-07
 * [User and Permissions Management Service](https://tomjoro.github.io/2017-02-07-rights-management-api/) by Thomas O'Rourke
+
+
+### 2017-02-04
+* [Tips and Tricks for Writing Elixir BDD Gherkin Tests with White Bread](https://hackernoon.com/tips-and-tricks-for-writing-elixir-bdd-gherkin-tests-with-white-bread-4f9894e9ea18) by Steven Blowers
+
+
+### 2017-02-02
+* [Comparing Elixir and Go](https://blog.codeship.com/comparing-elixir-go/) by Barry Jones
 
 
 ### 2017-01-26
@@ -181,6 +227,7 @@
 
 ### 2016-11-23
 * [Using Ecto.Multi for Complex Database Transactions](https://hackernoon.com/using-ecto-multi-for-complex-database-transactions-70aac419e81c) by Vikram Ramakrishnan
+* [Another look at Elixir’s With](https://hackernoon.com/another-look-at-elixirs-with-cbd70ccd8ba4) by Steven Blowers
 
 
 ### 2016-11-22
@@ -238,6 +285,7 @@
 * [Let’s Build |> a Slack Clone with Elixir, Phoenix, and React (part 3— Frontend Authentication)](https://medium.com/@benhansen/lets-build-a-slack-clone-with-elixir-phoenix-and-react-part-3-frontend-authentication-373e0a713e9e) by Ben Hansen
 * [Let’s Build |> a Slack Clone with Elixir, Phoenix, and React (part 4— Creating Chat Rooms)](https://medium.com/@benhansen/lets-build-a-slack-clone-with-elixir-phoenix-and-react-part-4-creating-chat-rooms-80dc74f4f704) by Ben Hansen
 * [Let’s Build |> a Slack Clone with Elixir, Phoenix, and React (part 5 — Phoenix Sockets and Channels)](https://medium.com/@benhansen/lets-build-a-slack-clone-with-elixir-phoenix-and-react-part-5-phoenix-sockets-and-channels-897fec025683) by Ben Hansen
+* [Mocks in Elixir Or “Test driving a Phoenix endpoint, part II”](https://medium.com/@lasseebert/mocks-in-elixir-7204f8cc9d0f) by Lasse Ebert
 
 
 ### 2016-10-21
@@ -248,6 +296,7 @@
 
 ### 2016-10-18
 * [Reactive Tweets with Elixir GenStage](https://almightycouch.org/blog/reactive-tweets-elixir-genstage/) by Mario Flach
+* [Test driving a Phoenix endpoint, part I](https://medium.com/@lasseebert/test-driving-a-phoenix-endpoint-part-i-b53e300c1a0a) by Lasse Ebert
 
 
 ### 2016-10-13
@@ -268,6 +317,7 @@
 
 ### 2016-10-07
 * [Building A Website With Phoenix Framework](http://technotif.com/building-website-phoenix-framework/)
+* [Iterating in Elixir](https://medium.com/@lasseebert/iterating-in-elixir-90fdc0005dfc) by Lasse Ebert
 
 
 ### 2016-10-05
@@ -280,6 +330,7 @@
 
 ### 2016-09-26
 * [Dynamically update Phoenix forms through sockets](https://medium.com/@Alexandre_Herve/dynamically-update-phoenix-forms-through-socket-f696d7bb585d#.nodojkavd) by Alexandre Hervé
+* [Elixir ETS Versus Redis](https://blog.codeship.com/elixir-ets-vs-redis/) by Barry Jones
 
 
 ### 2016-09-20
@@ -288,8 +339,13 @@
 ### 2016-09-19
 * [How to Create a Minimal Phoenix Elixir Server Docker Image That is Less Than 100 MB](http://jeremybellows.com/blog/How-to-Create-a-Minimal-Phoenix-Elixir-Server-Docker-Image) by Jeremy Bellows
 
+
 ### 2016-09-17
 * [Entity Component Systems in Elixir](http://yos.io/2016/09/17/entity-component-systems/) by Yos Riady
+
+
+### 2016-09-11
+* [Understanding Ecto Through a Phoenix Request / Response Cycle](https://medium.com/@StevenLeiva1/understanding-ecto-through-a-phoenix-request-response-cycle-65b5c10e46cb) by Steven Leiva
 
 
 ### 2016-09-06
@@ -299,6 +355,10 @@
 ### 2016-08-17
 * [Embedding Elm in Phoenix](http://blog.overminddl1.com/posts/embedding-elm-in-phoenix/) by OvermindDL1
 * [Counter Caching in Phoenix](https://medium.com/@lukerollans_17079/counter-caching-in-phoenix-8ac372e5c0c5#.hozp3cf7y) by Luke Rollans
+
+
+### 2016-08-16
+* [The minimum knowledge you need to start Metaprogramming in Elixir](https://dockyard.com/blog/2016/08/16/The-minumum-knowledge-you-need-to-start-metaprogramming-in-Elixir) by Daniel Xu
 
 
 ### 2016-08-24
@@ -324,6 +384,7 @@
 ### 2016-07-27
 * [Phoenix API versioning: Accept Header](http://elviovicosa.com/blog/2016/07/27/phoenix-api-versioning-accept-header.html) by Elvio Vicosa
 * [Implementing page-specific titles in Phoenix](http://cloudless.studio/articles/27-implementing-page-specific-titles-in-phoenix) by Karol Słuszniak
+* [postgresql functions with elixir ecto](http://www.brightball.com/articles/postgresql-functions-with-elixir-ecto) by Barry Jones
 
 
 ### 2016-07-26
@@ -394,6 +455,7 @@
 
 ### 2016-06-05
 * [Separate JS & CSS for admin panel in Phoenix](http://cloudless.studio/articles/5-separate-js-css-for-admin-panel-in-phoenix) by Karol Słuszniak
+* [Elixir — Process Registries](https://medium.com/@StevenLeiva1/elixir-process-registries-a27f813d94e3) by Steven Leiva
 
 
 ### 2016-06-02
@@ -447,12 +509,18 @@
 ### 2016-05-11
 * [How Honeybadger uses Elixir to monitor Heroku](http://blog.honeybadger.io/logplex-elixir/) by Joshua Wood
 
+
 ### 2016-05-10
 * [Creating Elixir libraries as OTP applications](https://www.amberbit.com/blog/2016/5/10/creating-elixir-libraries-as-otp-applications/)
 
 
+### 2016-05-08
+* [Elixir — Supervisors: A Conceptual Understanding](https://medium.com/@StevenLeiva1/elixir-supervisors-a-conceptual-understanding-ee0825f70cbe) by Steven Leiva
+
+
 ### 2016-05-07
 * [Phoenix + React: love story. RePh 1.](https://medium.com/@chvanikoff/phoenix-react-love-story-reph-1-c68512cfe18#.lqvzy6hic) by Roman Chvanikov
+
 
 ### 2016-05-04
 * [Using Ecto For Formula 1 Standings](http://geoffreylessel.com/2016/f1-standings-with-ecto/) by Geoffrey Lessel
@@ -467,6 +535,10 @@
 * [Processes in Elixir](http://hostiledeveloper.com/2016/04/26/processes-in-elixir.html) by Steven Nunez
 
 
+### 2016-04-25
+* [Elixir — Notes on Error Handling](https://medium.com/@StevenLeiva1/elixir-notes-on-error-handling-570cdeae065a) by Steven Leiva
+
+
 ### 2016-04-22
 * [Page specific JavaScript in Phoenix framework (pt.1)](https://blog.diacode.com/page-specific-javascript-in-phoenix-framework-pt-1)
 
@@ -478,6 +550,7 @@
 
 ### 2016-04-18
 * [Let's Build Something: Elixir, Part 5a - Data Ingest, Consumption, and Validation](http://tech.strofcon.org/2016/04/lets-build-something-elixir-part-5a.html) by Cody Boggs
+
 
 ### 2016-04-14
 * [How to trace Elixir nodes with Erlyberly](http://blog.plataformatec.com.br/2016/04/how-to-trace-elixir-nodes-with-erlyberly/) by Erich Kist
@@ -492,6 +565,10 @@
 * [The Most Object-Oriented Language](http://tech.noredink.com/post/142689001488/the-most-object-oriented-language) by James Edward Gray II
 * [Combining an Ecto Model with an Arc Uploader in Elixir](http://learningelixir.joekain.com/elixir-arc-with-a-single-module/) by Joseph Kain
 * [Choosing your future tech stack: Clojure vs Elixir vs Go](https://smashingboxes.com/blog/choosing-your-future-tech-stack-clojure-vs-elixir-vs-go/) by ZACH KUHN
+
+
+### 2016-04-11
+* [Understanding Elixir’s GenServer](https://medium.com/@StevenLeiva1/understanding-elixir-s-genserver-a8d5756e6848) by Steven Leiva
 
 
 ### 2016-04-09
