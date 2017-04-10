@@ -1,11 +1,21 @@
 # Awesome Elixir Posts
 
-#### Updated on: 2017-04-05
+#### Updated on: 2017-04-10
 
+
+
+### 2017-04-07
+* [Event Sourcing in Elixir](https://tech.zilverline.com/2017/04/07/elixir_event_sourcing) by Derek Kraan
+
+
+### 2017-04-05
+* [Understanding Tuples and Atoms in Elixir](http://www.littlealchemist.io/2017-04-05-understanding-tuples-and-atoms-in-elixir/) by Leandro Bighetti
+* [Elixir deployments: our data on what the community needs](https://medium.com/mint-digital/elixir-deployments-our-data-on-what-the-community-needs-cdc053a4285b) by Ed Ellson
 
 
 ### 2017-04-04
 * [Subscribe to messages with pattern matching](https://medium.com/@lasseebert/subscribe-to-messages-with-pattern-matching-8723f5121135) by Lasse Ebert
+* [To spawn, or not to spawn?](http://theerlangelist.com//article/spawn_or_not) by Saša Jurić
 
 
 ### 2017-04-03
@@ -49,6 +59,7 @@
 ### 2017-03-17
 * [Small data with Elixir](http://blog.plataformatec.com.br/2017/03/small-data-with-elixir/) by José Valim
 * [Distributed Elixir on… Heroku?](https://medium.com/@karmajunkie/distributed-elixir-on-heroku-59b691d9868e#.2zrekvh4d) by Keith Gaddis
+* [Elixir-y goodness from front to back with Elixirscript](https://tech.zilverline.com/2017/03/17/elixir-y-goodness-from-front-to-back-with-elixirscript) by Stephan van Diepen
 
 
 ### 2017-03-15
@@ -61,6 +72,7 @@
 
 ### 2017-03-12
 * [Elixometer and InfluxDB](http://www.johnpdaigle.com/complexable/2016/03/12/elixometer-and-influxdb.html)
+* [Polymorphism in Elixir](https://medium.com/@mustafaturan/polymorphism-in-elixir-cd0c765b6929) by Mustafa Turan
 
 
 ### 2017-03-11
@@ -104,6 +116,7 @@
 
 
 ### 2017-02-26
+* [Railway Oriented Programming in Elixir with Pattern Matching on Function Level and Pipelining](https://medium.com/@mustafaturan/railway-oriented-programming-in-elixir-with-pattern-matching-on-function-level-and-pipelining-e53972cede98) by Mustafa Turan
 * [10 Killer Elixir Tips #2](https://medium.com/blackode/10-killer-elixir-tips-2-c5f87f8a70c8#.50k3xf52z) by Blackode
 
 
@@ -124,12 +137,14 @@
 
 ### 2017-02-14
 * [Concurrency in Elixir](https://blog.codeship.com/concurrency-in-elixir/) by Leigh Halliday
+* [Securing WebSockets in Elixir](https://medium.com/casper-crafted/securing-websockets-in-elixir-770cbd2da043) by Kevin McNamee
 
 
 ### 2017-02-09
 * [How to fix Ecto duplicate name migrations error](http://minhajuddin.com/2017/02/09/how-to-fix-ecto-duplicate-name-migrations-error/) by Khaja Minhajuddin
 * [Phoenix with Ecto and MongoDb](https://tomjoro.github.io/2017-02-09-ecto3-mongodb-phoenix/) by Thomas O'Rourke
 * [Merging two sorted lists in Elixir](https://tomjoro.github.io/2017-02-09-merging-two-lists-in-elixir/) by Thomas O'Rourke
+* [Elixir deployments on AWS](https://medium.com/mint-digital/elixir-deployments-on-aws-ee787aa02a9d) by Ed Ellson
 
 
 ### 2017-02-07
@@ -154,6 +169,7 @@
 
 ### 2017-01-24
 * [Integration Testing Phoenix with Wallaby](https://semaphoreci.com/community/tutorials/integration-testing-phoenix-with-wallaby) by Jake Worth
+* [Elixir GenServer call vs cast](https://medium.com/@adammokan/elixir-genserver-call-vs-cast-ba89fafd8847) by Adam Mokan
 
 
 ### 2017-01-20
@@ -168,12 +184,20 @@
 * [Debugging incoming requests in a Phoenix router](https://medium.com/@QuantLayer/debugging-incoming-requests-in-phoenix-router-19ec3c55d04e#.5fhy8zcnk) by Vikram Ramakrishnan
 
 
+### 2017-01-09
+* [Using the Registry in Elixir 1.4](https://medium.com/@adammokan/registry-in-elixir-1-4-0-d6750fb5aeb) by Adam Mokan
+
+
 ### 2017-01-08
 * [Using Ecto.Multi to Group Database Operations](http://geoffreylessel.com/2017/using-ecto-multi-to-group-database-operations/) by Geoffrey Lessel
 
 
 ### 2017-01-04
 * [Building a CQRS/ES web application in Elixir using Phoenix](https://10consulting.com/2017/01/04/building-a-cqrs-web-application-in-elixir-using-phoenix/)
+
+
+### 2017-01-03
+* [Online Status with Phoenix Presence and Ember](https://m.brianmcmanus.org/online-status-with-phoenix-presence-and-ember-687348d1c351) by Brian McManus
 
 
 ### 2016-12-19
@@ -251,6 +275,10 @@
 * [How to deploy a simple phoenix app on a single server using distillery](http://minhajuddin.com/2016/11/13/how-to-deploy-a-simple-phoenix-app-on-a-single-server-using-distillery/) by Khaja Minhajuddin
 
 
+### 2016-11-08
+* [Elixir + Phoenix + Amnesia + Multi-node](https://medium.com/@jmerriweather/elixir-phoenix-amnesia-multi-node-451e8565da1d) by Jono Merriweather
+
+
 ### 2016-11-07
 * [NOSQL INJECTION IN PHOENIX APPLICATIONS](http://www.east5th.co/blog/2016/11/07/nosql-injection-in-phoenix-applications/) by Pete Corey
 
@@ -279,6 +307,7 @@
 * [Let’s Build |> a Slack Clone with Elixir, Phoenix, and React (part 6— Phoenix Presence)](https://medium.com/@benhansen/lets-build-a-slack-clone-with-elixir-phoenix-and-react-part-6-phoenix-presence-e10c529e239b) by Ben Hansen
 * [Let’s Build |> a Slack Clone with Elixir, Phoenix, and React (part 7 — Deploy to Heroku & AWS S3)](https://medium.com/@benhansen/lets-build-a-slack-clone-with-elixir-phoenix-and-react-part-7-deploy-to-heroku-6b3d1ce9bfd5) by Ben Hansen
 * [Accessing Apple CloudKit from your server using Elixir](https://medium.com/@tomwilson/accessing-apple-cloudkit-from-your-server-using-elixir-14ff3de9471d#.spwi5arva) by Tom Wilson
+* [Anatomy of an Elixir Process](https://medium.com/@mustafaturan/anatomy-of-an-elixir-process-878030c37166) by Mustafa Turan
 
 
 ### 2016-10-22
@@ -326,6 +355,7 @@
 
 ### 2016-09-29
 * [Dynamic forms with Phoenix](http://blog.plataformatec.com.br/2016/09/dynamic-forms-with-phoenix/) by José Valim
+* [GenStage: My Alternative To Certain Parallel Stages](https://medium.com/@adammokan/genstage-alternatives-to-parallel-stages-6689f8eabdbd) by Adam Mokan
 
 
 ### 2016-09-26
@@ -365,6 +395,10 @@
 * [Phoenix vs Rails: Views and helpers](http://cloudless.studio/articles/25-phoenix-vs-rails-views-and-helpers) by Karol Słuszniak
 
 
+### 2016-08-18
+* [Serving Single/Multiple Ember Apps inside Phoenix](https://medium.com/@mustafaturan/serving-single-multiple-ember-apps-inside-phoenix-f0a7528387ea) by Mustafa Turan
+
+
 ### 2016-08-16
 * [Taking advantage of Phoenix rendering and iodata (part 1)](http://blog.roundingpegs.com/taking-advantage-of-phoenix-rendering-and-iodata-part-1/) by Brian Marick
 
@@ -379,6 +413,10 @@
 
 ### 2016-08-08
 * [Elixir in the Trenches](http://blog.carbonfive.com/2016/08/08/elixir-in-the-trenches/) by Thomas Fisher
+
+
+### 2016-07-30
+* [Dynamically Loading a Module in Elixir](https://medium.com/@mustafaturan/dynamically-loading-a-module-in-elixir-c00f2620e3ae) by Mustafa Turan
 
 
 ### 2016-07-27
@@ -396,6 +434,14 @@
 
 ### 2016-07-22
 * [Phoenix API versioning: URL](http://elviovicosa.com/blog/2016/07/22/phoenix-api-versioning-url.html) by Elvio Vicosa
+
+
+### 2016-07-14
+* [Announcing GenStage](http://elixir-lang.org/blog/2016/07/14/announcing-genstage/) by José Valim
+
+
+### 2016-07-10
+* [A Simple Scheduled Task in Phoenix](A Simple Scheduled Task in Phoenix) by kagemusha_
 
 
 ### 2016-07-07
@@ -438,6 +484,10 @@
 
 ### 2016-06-13
 * [Elixir vs Ruby: File I/O performance (updated)](http://cloudless.studio/articles/12-elixir-vs-ruby-file-i-o-performance-updated) by Karol Słuszniak
+
+
+### 2016-06-12
+* [Observing low latency in Phoenix with wrk](http://theerlangelist.com/article/phoenix_latency) by Saša Jurić
 
 
 ### 2016-06-08
