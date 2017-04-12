@@ -4,6 +4,10 @@
 
 
 
+### 2017-04-10
+* [Linking, Monitoring, and Supervising in Elixir](https://blog.codeship.com/linking-monitoring-and-supervising-in-elixir/) by Leigh Halliday
+
+
 ### 2017-04-08
 * [Creating and Visualizing Markov Chains in Elixir with Phoenix and React](https://lute.io/creating-and-viz-markov-chains-in-elixir-phoenix-with-react/) by Rob Baruch
 
@@ -141,6 +145,10 @@
 ### 2017-02-17
 * [10 Killer Elixir Tips](https://medium.com/blackode/10-killer-elixir-tips-2a9be1bec9be) by Blackode
 * [When and Where to use cast,call & info messages in Elixir & Erlang — GenServer](https://medium.com/blackode/when-and-where-to-use-cast-cal-info-messages-in-elixir-erlang-genserver-9baf937b6494#.qrls86a0w) by Blackode
+
+
+### 2017-02-13
+* [Concurrency in Elixir](https://blog.codeship.com/concurrency-in-elixir/) by Leigh Halliday
 
 
 ### 2017-02-14
