@@ -1,7 +1,11 @@
 # Awesome Elixir Posts
 
-#### Updated on: 2017-04-10
+#### Updated on: 2017-04-12
 
+
+
+### 2017-04-08
+* [Creating and Visualizing Markov Chains in Elixir with Phoenix and React](https://lute.io/creating-and-viz-markov-chains-in-elixir-phoenix-with-react/) by Rob Baruch
 
 
 ### 2017-04-07
@@ -68,6 +72,10 @@
 
 ### 2017-03-14
 * [Common Pitfalls in Elixir Coding](https://medium.com/blackode/common-pitfalls-in-elixir-coding-a9f8a5db2877#.y1krr9x7q) by Blackode
+
+
+### 2017-03-13
+* [ExMachina 2.0 - Cast Away](https://robots.thoughtbot.com/ex-machina-2-cast-away) by Josh Steiner
 
 
 ### 2017-03-12
@@ -159,6 +167,10 @@
 * [Comparing Elixir and Go](https://blog.codeship.com/comparing-elixir-go/) by Barry Jones
 
 
+### 2017-02-03
+* [Running Project Mix Commands from Any Directory](https://robots.thoughtbot.com/running-project-mix-commands-from-any-directory) by Jake Craige
+
+
 ### 2017-01-26
 * [Comparing Elixir and Go](https://blog.codeship.com/comparing-elixir-go/) by Barry Jones
 
@@ -184,6 +196,10 @@
 * [Debugging incoming requests in a Phoenix router](https://medium.com/@QuantLayer/debugging-incoming-requests-in-phoenix-router-19ec3c55d04e#.5fhy8zcnk) by Vikram Ramakrishnan
 
 
+### 2017-01-11
+* [Preloading Nested Associations with Ecto](https://robots.thoughtbot.com/preloading-nested-associations-with-ecto) by Greg Lazarev
+
+
 ### 2017-01-09
 * [Using the Registry in Elixir 1.4](https://medium.com/@adammokan/registry-in-elixir-1-4-0-d6750fb5aeb) by Adam Mokan
 
@@ -198,6 +214,10 @@
 
 ### 2017-01-03
 * [Online Status with Phoenix Presence and Ember](https://m.brianmcmanus.org/online-status-with-phoenix-presence-and-ember-687348d1c351) by Brian McManus
+
+
+### 2016-12-21
+* ["Tell, Don't Ask" in Elixir: A Story of Pattern-Matching](https://robots.thoughtbot.com/tell-don-t-ask-in-elixir) by Josh Clayton
 
 
 ### 2016-12-19
@@ -353,6 +373,10 @@
 * [Learning Elixir's GenStage](http://learningelixir.joekain.com/gen-stage/) by Joseph Kain
 
 
+### 2016-10-04
+* [Announcing Constable, an open source Phoenix application](https://robots.thoughtbot.com/announcing-constable-our-first-open-source-phoenix-application) by Blake Williams and Paul Smith
+
+
 ### 2016-09-29
 * [Dynamic forms with Phoenix](http://blog.plataformatec.com.br/2016/09/dynamic-forms-with-phoenix/) by José Valim
 * [GenStage: My Alternative To Certain Parallel Stages](https://medium.com/@adammokan/genstage-alternatives-to-parallel-stages-6689f8eabdbd) by Adam Mokan
@@ -415,6 +439,10 @@
 * [Elixir in the Trenches](http://blog.carbonfive.com/2016/08/08/elixir-in-the-trenches/) by Thomas Fisher
 
 
+### 2016-08-02
+* [Building and testing a Phoenix JSON API](https://robots.thoughtbot.com/building-a-phoenix-json-api) by Paul Smith
+
+
 ### 2016-07-30
 * [Dynamically Loading a Module in Elixir](https://medium.com/@mustafaturan/dynamically-loading-a-module-in-elixir-c00f2620e3ae) by Mustafa Turan
 
@@ -438,6 +466,10 @@
 
 ### 2016-07-14
 * [Announcing GenStage](http://elixir-lang.org/blog/2016/07/14/announcing-genstage/) by José Valim
+
+
+### 2016-07-13
+* [Make Phoenix Even Faster with a GenServer-backed Key Value Store](https://robots.thoughtbot.com/make-phoenix-even-faster-with-a-genserver-backed-key-value-store) by Josh Clayton
 
 
 ### 2016-07-10
@@ -788,6 +820,10 @@
 
 ### 2015-10-27
 * [Designing with OTP Applications in Elixir](http://learningelixir.joekain.com/designing-with-otp-applications-in-elixir/) by Joseph Kain
+
+
+### 2015-10-15
+* [Embedding Elixir Structs in Ecto Models](https://robots.thoughtbot.com/embedding-elixir-structs-in-ecto-models) by John Steiner
 
 
 ### 2015-10-14
