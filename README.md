@@ -1,7 +1,39 @@
 # Awesome Elixir Posts
 
-#### Updated on: 2017-04-12
+#### Updated on: 2017-04-27
 
+
+
+### 2017-04-25
+* [Sending notifications in Elixir with Ravenx](https://medium.com/acutario/sending-notifications-in-elixir-with-ravenx-1f2502a1f272) by Óscar de Arriba
+
+
+### 2017-04-21
+* [Event Sourcing: Invariants spanning multiple aggregates](https://tech.zilverline.com/2017/04/21/event-sourcing-invariants-spanning-multiple-aggregates) by Derek Kraan
+
+
+### 2017-04-20
+* [Event Sourcing and CQRS with Elixir](https://benmorgan.io/event-sourcing-and-cqrs-with-elixir/) by Ben Morgan
+* [Introducing ReactPhoenix - Render React.js components in Phoenix views](http://geoffreylessel.com/2017/introducing-react-phoenix/) by Geoffrey Lessel
+
+
+### 2017-04-18
+* [Deploying a Phoenix 1.3 Umbrella app to Heroku](https://medium.com/@marcdel/deploying-a-phoenix-1-3-umbrella-app-to-heroku-452436b2b37f) by Marc Delagrammatikas
+* [PHOENIX 1.3 AND GRAPHQL WITH ABSINTHE](https://seanclayton.me/post/phoenix-1-3-and-graphql-with-absinthe/) by Sean Clayton
+* [A Module By Any Other Name: Aliases in Elixir](https://hashrocket.com/blog/posts/modules-and-aliases-in-elixir) by Josh Branchaud
+
+
+### 2017-04-17
+* [Introducing Trans 2.0](https://hackernoon.com/introducing-trans2-407610887068) by Cristian Álvarez
+
+
+### 2017-04-16
+* [Getting Comprehensive with Comprehensions](https://lute.io/getting-comprehensive-with-comprehensions/) by Rob Baruch
+
+
+### 2017-04-13
+* [Developing For Alexa Using Elixir (Part One)](http://lesseverything.com//blog/developing-for-alexa-using-elixir-part-one/) by Eugen
+* [Embrace the Database with Ecto](https://hashrocket.com/blog/posts/embrace-the-database-with-ecto) by Josh Branchaud
 
 
 ### 2017-04-10
@@ -14,6 +46,8 @@
 
 ### 2017-04-07
 * [Event Sourcing in Elixir](https://tech.zilverline.com/2017/04/07/elixir_event_sourcing) by Derek Kraan
+* [Logging slow Ecto queries: adventures in metaprogramming](https://hackernoon.com/logging-slow-ecto-queries-adventures-in-metaprogramming-110f3472be33) by Derek Haynes
+* [ELIXIR FOR PYTHONISTAS PART I](http://blog.brianz.bz/post/elixir-for-pythonistas-i/) by BRIAN ZAMBRANO
 
 
 ### 2017-04-05
@@ -64,10 +98,15 @@
 * [Tuple Types in Erlang and Elixir](http://get-finch.com/2017/03/22/tuple_types_in_erlang_and_elixir.html) by Zach Kessin
 
 
+### 2-17-03-21
+* [Titled URL Slugs in Phoenix](https://hashrocket.com/blog/posts/titled-url-slugs-in-phoenix) by Jake Worth
+
+
 ### 2017-03-17
 * [Small data with Elixir](http://blog.plataformatec.com.br/2017/03/small-data-with-elixir/) by José Valim
 * [Distributed Elixir on… Heroku?](https://medium.com/@karmajunkie/distributed-elixir-on-heroku-59b691d9868e#.2zrekvh4d) by Keith Gaddis
 * [Elixir-y goodness from front to back with Elixirscript](https://tech.zilverline.com/2017/03/17/elixir-y-goodness-from-front-to-back-with-elixirscript) by Stephan van Diepen
+* [JSON Views in Phoenix](http://www.rokkincat.com/blog/2015/03/17/json-views-in-phoenix) by Jason Stiebs
 
 
 ### 2017-03-15
@@ -130,6 +169,10 @@
 ### 2017-02-26
 * [Railway Oriented Programming in Elixir with Pattern Matching on Function Level and Pipelining](https://medium.com/@mustafaturan/railway-oriented-programming-in-elixir-with-pattern-matching-on-function-level-and-pipelining-e53972cede98) by Mustafa Turan
 * [10 Killer Elixir Tips #2](https://medium.com/blackode/10-killer-elixir-tips-2-c5f87f8a70c8#.50k3xf52z) by Blackode
+
+
+### 2017-02-23
+* [Ecto Migrations: Simple to Complex](https://hashrocket.com/blog/posts/ecto-migrations-simple-to-complex) by Josh Branchaud
 
 
 ### 2017-02-22
@@ -214,6 +257,10 @@
 
 ### 2017-01-08
 * [Using Ecto.Multi to Group Database Operations](http://geoffreylessel.com/2017/using-ecto-multi-to-group-database-operations/) by Geoffrey Lessel
+
+
+### 2017-01-05
+* [Integration Testing Phoenix With Wallaby](https://hashrocket.com/blog/posts/integration-testing-phoenix-with-wallaby) by Jake Worth
 
 
 ### 2017-01-04
@@ -480,6 +527,10 @@
 * [Make Phoenix Even Faster with a GenServer-backed Key Value Store](https://robots.thoughtbot.com/make-phoenix-even-faster-with-a-genserver-backed-key-value-store) by Josh Clayton
 
 
+### 2016-07-11
+* [An example of many-to-many associations in Ecto and Phoenix](http://blog.roundingpegs.com/an-example-of-many-to-many-associations-in-ecto-and-phoenix/) by marick
+
+
 ### 2016-07-10
 * [A Simple Scheduled Task in Phoenix](A Simple Scheduled Task in Phoenix) by kagemusha_
 
@@ -502,6 +553,7 @@
 
 ### 2016-06-28
 * [Special Processes in OTP](http://blog.carbonfive.com/2016/06/28/special-processes-in-otp/)
+* [Erlang's Internal Data Representation](https://edfine.io/blog/2016/06/28/erlang-data-representation/) by Ed Fine
 
 
 ### 2016-06-27
@@ -860,3 +912,13 @@
 
 ### 2014-10-11
 * [Producer-Consumer problem in Elixir](http://benjamintan.io/blog/2014/10/11/producer-consumer-problem-in-elixir/) by Benjamin Tan Wei Hao
+
+
+
+## VIDEOS
+
+### 2017-04-18
+* [From Zero to Hero in Elixir - #1 Say Hello World to my little friend](https://www.youtube.com/watch?v=Jydr6UUYs2U&t=262s) by Leandro Bighetti
+
+### 2017-04-26
+* [From Zero to Hero in Elixir - #2 IEx and Basic Types](https://www.youtube.com/watch?v=5DeLxAKDowA) by Leandro Bighetti
