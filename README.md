@@ -1,11 +1,16 @@
 # Awesome Elixir Posts
 
-#### Updated on: 2017-04-27
+#### Updated on: 2017-05-01
 
 
 
 ### 2017-04-25
 * [Sending notifications in Elixir with Ravenx](https://medium.com/acutario/sending-notifications-in-elixir-with-ravenx-1f2502a1f272) by Óscar de Arriba
+* [5 Elixir highlights from Erlang & Elixir Factory 2017](https://www.erlang-solutions.com/blog/5-elixir-highlights-from-erlang-elixir-factory-2017.html) by Claudio Ortolina
+
+
+### 2017-94-24
+* [The building blocks of a poker application](https://medium.com/carwow-product-engineering/the-building-blocks-of-a-poker-application-6042357a58c1) by Muyiwa Olu
 
 
 ### 2017-04-21
