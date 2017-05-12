@@ -2,7 +2,10 @@
 
 #### Updated on: 2017-05-01
 
+- [BLOG POSTS](#blog-posts)
+- [VIDEOS](#videos)
 
+## BLOG POSTS
 
 ### 2017-04-25
 * [Sending notifications in Elixir with Ravenx](https://medium.com/acutario/sending-notifications-in-elixir-with-ravenx-1f2502a1f272) by Óscar de Arriba
@@ -807,7 +810,7 @@
 
 ### 2016-02-15
 * [Using Phoenix with docker, Part 1: Introduction](http://floriank.github.io/post/using-phoenix-with-docker-part-1-introduction/) by Florian Kraft
-*[Using Phoenix with docker, Part 2: Implementation](https://floriank.github.io/post/using-phoenix-with-docker-part-2-implementation/) by Florian Kraft
+* [Using Phoenix with docker, Part 2: Implementation](https://floriank.github.io/post/using-phoenix-with-docker-part-2-implementation/) by Florian Kraft
 * [Using Phoenix with docker, Part 3: Containerization](https://floriank.github.io/post/using-phoenix-with-docker-part-3-containerization/) by Florian Kraft
 
 
