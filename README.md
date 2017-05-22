@@ -1,11 +1,26 @@
 # Awesome Elixir Posts
 
-#### Updated on: 2017-05-01
+#### Updated on: 2017-05-22
 
 - [BLOG POSTS](#blog-posts)
 - [VIDEOS](#videos)
 
 ## BLOG POSTS
+
+
+### 2017-05-15
+* [Why changes in Phoenix 1.3 are so important?](https://medium.com/wemake-services/why-changes-in-phoenix-1-3-are-so-important-2d50c9bdabb9) by Nikita Sobolev
+
+
+### 2017-05-12
+* [Elixir's Secret Weapon](https://blog.drewolson.org/elixirs-secret-weapon/) by Drew Olson
+* [A free introduction to Elixir, OTP, Ecto, and Phoenix](https://hackernoon.com/a-free-introduction-to-elixir-otp-ecto-and-phoenix-228d0e994fc1) by DailyDrip
+
+
+### 2017-05-11
+* [Behind the magic of Phoenix LiveReload](https://hackernoon.com/behind-the-magic-of-phoenix-livereload-aa007995aa0f) by Derek Haynes
+* [Dissecting a Fresh Elixir Application](https://blog.10pines.com/2017/05/11/dissecting-elixir/) by Lucas David Traverso
+
 
 ### 2017-04-25
 * [Sending notifications in Elixir with Ravenx](https://medium.com/acutario/sending-notifications-in-elixir-with-ravenx-1f2502a1f272) by Óscar de Arriba
@@ -119,6 +134,7 @@
 
 ### 2017-03-15
 * [Understanding Pattern Matching](http://www.littlealchemist.io/2017-03-15-understading-elixir-pattern-matching/) by Leandro Bighetti
+* [Elixir Deep Dive: Evercam, a 10K LOC Phoenix app](https://hackernoon.com/elixir-deep-dive-evercam-a-10k-loc-phoenix-app-bd84bc20345d) by Derek Haynes
 
 
 ### 2017-03-14
@@ -202,6 +218,10 @@
 * [Concurrency in Elixir](https://blog.codeship.com/concurrency-in-elixir/) by Leigh Halliday
 
 
+### 2017-02-15
+* [A tour of Elixir performance & monitoring tools](https://hackernoon.com/a-tour-of-elixir-performance-monitoring-tools-aac2df726e8c) by Derek Haynes
+
+
 ### 2017-02-14
 * [Concurrency in Elixir](https://blog.codeship.com/concurrency-in-elixir/) by Leigh Halliday
 * [Securing WebSockets in Elixir](https://medium.com/casper-crafted/securing-websockets-in-elixir-770cbd2da043) by Kevin McNamee
@@ -228,6 +248,10 @@
 
 ### 2017-02-03
 * [Running Project Mix Commands from Any Directory](https://robots.thoughtbot.com/running-project-mix-commands-from-any-directory) by Jake Craige
+
+
+### 2017-01-30
+* [Elixir: the new wave or an elegant niche?](https://hackernoon.com/elixir-the-new-wave-or-an-elegant-niche-5e38b4de0783) by Derek Haynes
 
 
 ### 2017-01-26
@@ -904,6 +928,10 @@
 
 ### 2015-06-30
 * [Elixir in times of microservices](http://blog.plataformatec.com.br/2015/06/elixir-in-times-of-microservices/) by José Valim
+
+
+### 2015-06-08
+* [Elixir Streams](https://blog.drewolson.org/elixir-streams/) by Drew Olson
 
 
 ### 2015-05-20
