@@ -1,11 +1,15 @@
 # Awesome Elixir Posts
 
-#### Updated on: 2017-05-22
+#### Updated on: 2017-05-23
 
 - [BLOG POSTS](#blog-posts)
 - [VIDEOS](#videos)
 
 ## BLOG POSTS
+
+
+### 2017-05-18
+* [Demystifying processes in Elixir](http://blog.appsignal.com/2017/05/18/elixir-alchemy-demystifying-processes-in-elixir.html) by Jeff Kreeftmeijer
 
 
 ### 2017-05-15
