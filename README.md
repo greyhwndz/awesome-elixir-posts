@@ -1,6 +1,6 @@
 # Awesome Elixir Posts
 
-#### Updated on: 2017-05-23
+#### Updated on: 2017-05-24
 
 - [BLOG POSTS](#blog-posts)
 - [VIDEOS](#videos)
@@ -24,6 +24,11 @@
 ### 2017-05-11
 * [Behind the magic of Phoenix LiveReload](https://hackernoon.com/behind-the-magic-of-phoenix-livereload-aa007995aa0f) by Derek Haynes
 * [Dissecting a Fresh Elixir Application](https://blog.10pines.com/2017/05/11/dissecting-elixir/) by Lucas David Traverso
+
+
+### 2017-05-08
+* [Linking, Monitoring, and Supervising in Elixir](https://blog.codeship.com/linking-monitoring-and-supervising-in-elixir/) by Leigh Halliday
+* [Concurrency in Elixir](https://blog.codeship.com/concurrency-in-elixir/) by Leigh Halliday
 
 
 ### 2017-04-25
