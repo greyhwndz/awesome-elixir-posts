@@ -1,6 +1,6 @@
 # Awesome Elixir Posts
 
-#### Updated on: 2017-05-24
+#### Updated on: 2017-06-14
 
 - [BLOG POSTS](#blog-posts)
 - [VIDEOS](#videos)
@@ -47,6 +47,11 @@
 ### 2017-04-20
 * [Event Sourcing and CQRS with Elixir](https://benmorgan.io/event-sourcing-and-cqrs-with-elixir/) by Ben Morgan
 * [Introducing ReactPhoenix - Render React.js components in Phoenix views](http://geoffreylessel.com/2017/introducing-react-phoenix/) by Geoffrey Lessel
+* [Developing For Alexa Using Elixir (Part Three)](http://lesseverything.com/blog/developing-for-alexa-using-elixir-three/) by Eugen Minciu
+
+
+### 2017-04-19
+* [Developing For Alexa Using Elixir (Part Two)](http://lesseverything.com/blog/developing-for-alexa-using-elixir-part-two/#) by Eugen Minciu
 
 
 ### 2017-04-18
@@ -261,6 +266,7 @@
 
 ### 2017-01-30
 * [Elixir: the new wave or an elegant niche?](https://hackernoon.com/elixir-the-new-wave-or-an-elegant-niche-5e38b4de0783) by Derek Haynes
+* [Nested Forms In Phoenix](http://lesseverything.com/blog/nested-forms-in-phoenix/) by Michael Rode
 
 
 ### 2017-01-26
