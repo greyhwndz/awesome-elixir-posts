@@ -1083,6 +1083,22 @@
 
 ## VIDEOS
 
+### 2017-06-06
+* [Understanding Pattern Matching | Zero to Hero in Elixir #6](https://www.youtube.com/watch?v=79WCxJ9TM1o) by Leandro Bighetti
+
+### 2017-06-05
+* [Chris McCord | Keynote: Phoenix - Gauging Progress](https://www.youtube.com/watch?v=pfFpIjFOL-I) by Chris McCord
+* [Word Lists | 1 minute of Elixir](https://www.youtube.com/watch?v=Kpu00n-mXy4) by Leandro Bighetti
+
+### 2017-05-29
+* [String Interpolation | 1 minute of Elixir](https://www.youtube.com/watch?v=1g8Ct9J2TS8) by Leandro Bighetti
+
+### 2017-05-23
+* [Modules & Functions | Zero to Hero in Elixir #4](https://www.youtube.com/watch?v=Ipddkt5DR2w) by Leandro Bighetti
+
+### 2017-04-18
+* [Reading a File, Atoms and Tuples | Zero to Hero in Elixir #3](https://www.youtube.com/watch?v=tOkF5BVpKTQ) by Leandro Bighetti
+
 ### 2017-05-03
 * [Elixir hot-reloading & music generation](https://www.youtube.com/watch?v=_VgcUatTilU) by Thibaut Barrère
 
@@ -1091,6 +1107,9 @@
 
 ### 2017-04-26
 * [From Zero to Hero in Elixir - #2 IEx and Basic Types](https://www.youtube.com/watch?v=5DeLxAKDowA) by Leandro Bighetti
+
+### 2017-04-18
+* [Hello World | Zero to Hero in Elixir #1](https://www.youtube.com/watch?v=Jydr6UUYs2U) by Leandro Bighetti
 
 ### 2017-02-28
 * [Lonestar ElixirConf 2017- Holistically built and tested APIs](https://www.youtube.com/watch?v=LrJpzTvJrMc) by Brian Cardarella
