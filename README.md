@@ -1,6 +1,6 @@
 # Awesome Elixir Posts
 
-#### Updated on: 2017-06-15
+#### Updated on: 2017-06-16
 
 - [BLOG POSTS](#blog-posts)
 - [VIDEOS](#videos)
@@ -422,6 +422,7 @@
 
 ### 2016-12-16
 * [Best parts of "What's New in Ecto 2.0"](http://cloudless.studio/articles/44-best-parts-of-what-s-new-in-ecto-2-0) by Karol Słuszniak
+* [Composing Elixir Functions](https://www.bignerdranch.com/blog/composing-elixir-functions/) by Jay Hayes
 
 
 ### 2016-12-12
@@ -583,9 +584,14 @@
 * [GenStage: My Alternative To Certain Parallel Stages](https://medium.com/@adammokan/genstage-alternatives-to-parallel-stages-6689f8eabdbd) by Adam Mokan
 
 
+### 2016-09-28
+* [Elixir and Unicode, Part 2: Working with Unicode Strings](https://www.bignerdranch.com/blog/elixir-and-unicode-part-2-working-with-unicode-strings/) by Nathan Long
+
+
 ### 2016-09-26
 * [Dynamically update Phoenix forms through sockets](https://medium.com/@Alexandre_Herve/dynamically-update-phoenix-forms-through-socket-f696d7bb585d#.nodojkavd) by Alexandre Hervé
 * [Elixir ETS Versus Redis](https://blog.codeship.com/elixir-ets-vs-redis/) by Barry Jones
+* [Elixir and Unicode, Part 1: Unicode and UTF-8 Explained](https://www.bignerdranch.com/blog/unicode-and-utf-8-explained/) by Nathan Long
 
 
 ### 2016-09-20
@@ -1078,6 +1084,11 @@
 
 ### 2014-10-11
 * [Producer-Consumer problem in Elixir](http://benjamintan.io/blog/2014/10/11/producer-consumer-problem-in-elixir/) by Benjamin Tan Wei Hao
+
+
+
+### 2017-05-25
+* [Connecting Elixir nodes on the same LAN](http://benjamintan.io/blog/2014/05/25/connecting-elixir-nodes-on-the-same-lan/) by Benjamin Tan Wei Hao
 
 
 
