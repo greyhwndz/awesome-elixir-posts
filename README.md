@@ -1,6 +1,6 @@
 # Awesome Elixir Posts
 
-#### Updated on: 2017-06-16
+#### Updated on: 2017-06-18
 
 - [BLOG POSTS](#blog-posts)
 - [VIDEOS](#videos)
@@ -15,6 +15,10 @@
 * [Testing Absinthe with ExUnit](http://tosbourn.com/testing-absinthe-exunit/) by tosbourn
 
 
+### 2017-06-10
+* [Secure Your Phoenix App With Free SSL](https://medium.com/@zek/secure-your-phoenix-app-with-free-ssl-48ac749c17d7) by Zek Interactive
+
+
 ### 2017-06-08
 * [Stateful WebSockets with Elixir’s GenStage](https://medium.com/mint-digital/stateful-websockets-with-elixirs-genstage-a29eab420c0d) by Ed Ellson
 
@@ -25,6 +29,11 @@
 
 ### 2017-06-01
 * [Elixir and Bleacher Report - An Example of "Individualised Content at Web-Scale"](https://content.nanobox.io/elixir-bleacher-report-individualized-content-web-scale/) by Richard Robbins
+* [Deploy Early and Often: Deploying Phoenix with Edeliver and Distillery (Part Two)](https://medium.com/@zek/deploy-early-and-often-deploying-phoenix-with-edeliver-and-distillery-part-two-f361ef36aa10) by Zek Interactive
+
+
+### 2017-05-31
+* [Deploy Early and Often: Deploying Phoenix with Edeliver and Distillery (Part One)](https://medium.com/@zek/deploy-early-and-often-deploying-phoenix-with-edeliver-and-distillery-part-one-5e91cac8d4bd) by Zek Interactive
 
 
 ### 2017-05-29
@@ -113,6 +122,10 @@
 * [Replacing Brunch with Webpack 1 in Phoenix](https://ryanwinchester.ca/posts/replacing-brunch-with-webpack-1-in-phoenix) by Ryan Winchester
 
 
+### 2017-04-26
+* [Background Jobs in Elixir & Phoenix](https://medium.com/@cschneid/background-jobs-in-elixir-phoenix-60dddf4ce207) by Chris Schneider
+
+
 ### 2017-04-25
 * [Sending notifications in Elixir with Ravenx](https://medium.com/acutario/sending-notifications-in-elixir-with-ravenx-1f2502a1f272) by Óscar de Arriba
 * [5 Elixir highlights from Erlang & Elixir Factory 2017](https://www.erlang-solutions.com/blog/5-elixir-highlights-from-erlang-elixir-factory-2017.html) by Claudio Ortolina
@@ -132,6 +145,7 @@
 * [Event Sourcing and CQRS with Elixir](https://benmorgan.io/event-sourcing-and-cqrs-with-elixir/) by Ben Morgan
 * [Introducing ReactPhoenix - Render React.js components in Phoenix views](http://geoffreylessel.com/2017/introducing-react-phoenix/) by Geoffrey Lessel
 * [Developing For Alexa Using Elixir (Part Three)](http://lesseverything.com/blog/developing-for-alexa-using-elixir-three/) by Eugen Minciu
+* [Gaming with Elixir: discovering new lands in the BEAM realm](https://notamonadtutorial.com/gaming-with-elixir-discovering-new-lands-in-the-beam-realm-c7c04c51acce) by Federico Carrone
 
 
 ### 2017-04-19
@@ -285,6 +299,10 @@
 * [Understanding Elixir Types](https://blog.codeship.com/understanding-elixir-types/) by Barry Jones
 
 
+### 2017-02-28
+* [Elixir: When match? is always true](https://medium.com/everydayhero-engineering/elixir-when-match-is-always-true-9102309b00c8) by Matt Furness
+
+
 ### 2017-02-27
 * [Mix Task Creation in Elixir Project](https://medium.com/blackode/mix-task-creation-in-elixir-project-d89e49267fe3#.49cfru6ql) by Blackode
 
@@ -379,6 +397,7 @@
 
 ### 2017-01-18
 * [A simpler way to generate an incrementing version for elixir apps](http://minhajuddin.com/2017/01/18/a-simpler-way-to-generate-an-incrementing-version-for-elixir-apps/) by Khaja Minhajuddin
+* [Unit Testing Higher Order Functions in Elixir](https://medium.com/everydayhero-engineering/unit-testing-higher-order-functions-in-elixir-9b376a940eff) by Aaron Abrook
 
 
 ### 2017-01-16
@@ -628,6 +647,7 @@
 
 ### 2016-08-24
 * [Phoenix vs Rails: Views and helpers](http://cloudless.studio/articles/25-phoenix-vs-rails-views-and-helpers) by Karol Słuszniak
+* [Writing Elixir Pending Tests](https://medium.com/@ryuichi/writing-elixir-pending-tests-aa05c3e8a563) by Ryuichi Saito
 
 
 ### 2016-08-18
@@ -1094,12 +1114,19 @@
 
 ## VIDEOS
 
+### 2017-06-16
+* [A Practical Guide to Elixir Protocols](https://www.youtube.com/watch?v=sJvfCE6PFxY) by Kevin Rockwood
+
 ### 2017-06-06
 * [Understanding Pattern Matching | Zero to Hero in Elixir #6](https://www.youtube.com/watch?v=79WCxJ9TM1o) by Leandro Bighetti
 
 ### 2017-06-05
 * [Chris McCord | Keynote: Phoenix - Gauging Progress](https://www.youtube.com/watch?v=pfFpIjFOL-I) by Chris McCord
 * [Word Lists | 1 minute of Elixir](https://www.youtube.com/watch?v=Kpu00n-mXy4) by Leandro Bighetti
+
+### 2017-06-02
+* [Visual Reasoning and Mental Maps in Elixir](https://www.youtube.com/watch?v=XLOrFRgmczU) by Dániel Vámosi
+* [Machine Learning with Elixir and Phoenix](https://www.youtube.com/watch?v=ZgPwqN38xaA) by Eric Weinstein
 
 ### 2017-05-29
 * [String Interpolation | 1 minute of Elixir](https://www.youtube.com/watch?v=1g8Ct9J2TS8) by Leandro Bighetti
@@ -1113,6 +1140,10 @@
 ### 2017-05-03
 * [Elixir hot-reloading & music generation](https://www.youtube.com/watch?v=_VgcUatTilU) by Thibaut Barrère
 
+### 2017-04-20
+* [Gaming with Elixir: discovering new lands in the BEAM realm](https://notamonadtutorial.com/gaming-with-elixir-discovering-new-lands-in-the-beam-realm-c7c04c51acce) by Federico Carrone
+
+
 ### 2017-04-18
 * [From Zero to Hero in Elixir - #1 Say Hello World to my little friend](https://www.youtube.com/watch?v=Jydr6UUYs2U&t=262s) by Leandro Bighetti
 
@@ -1124,3 +1155,6 @@
 
 ### 2017-02-28
 * [Lonestar ElixirConf 2017- Holistically built and tested APIs](https://www.youtube.com/watch?v=LrJpzTvJrMc) by Brian Cardarella
+
+### 2015-03-28
+* [Erlang Factory SF 2015 - Jamie Winsor -Building And Releasing A Massively Multiplayer Online Game](https://www.youtube.com/watch?v=_i6n-eWiVn4) by Jamie Winsor
