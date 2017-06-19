@@ -1,6 +1,6 @@
 # Awesome Elixir Posts
 
-#### Updated on: 2017-06-18
+#### Updated on: 2017-06-19
 
 - [BLOG POSTS](#blog-posts)
 - [VIDEOS](#videos)
@@ -17,6 +17,8 @@
 
 ### 2017-06-10
 * [Secure Your Phoenix App With Free SSL](https://medium.com/@zek/secure-your-phoenix-app-with-free-ssl-48ac749c17d7) by Zek Interactive
+* [Connect to Running Elixir Applications with IEx Remote Shell](http://joeellis.la/iex-remsh-shells/) by Joe Ellis
+* [Decorate functions using macros in Elixir](http://carlo-colombo.github.io/2017/06/10/Track-functions-call-in-Elixir-applications-with-Google-Analytics) by Carlo Colombo
 
 
 ### 2017-06-08
@@ -95,6 +97,10 @@
 ### 2017-05-11
 * [Behind the magic of Phoenix LiveReload](https://hackernoon.com/behind-the-magic-of-phoenix-livereload-aa007995aa0f) by Derek Haynes
 * [Dissecting a Fresh Elixir Application](https://blog.10pines.com/2017/05/11/dissecting-elixir/) by Lucas David Traverso
+
+
+### 2017-05-10
+* [Nested Modules and Auto-Aliasing in Elixir](http://joeellis.la/elixir-nested-modules/) by Joe Ellis
 
 
 ### 2017-05-09
@@ -464,13 +470,13 @@
 * [How to use MongoDB With Elixir - Revisited](http://www.east5th.co/blog/2016/12/05/how-to-use-mongodb-with-elixir-revisited/) by Pete Corey
 
 
-
 ### 2016-12-03
 * [Phoenix GraphQL Tutorial with Absinthe: Add CRUD Using Mutations](https://ryanswapp.com/2016/12/03/phoenix-graphql-tutorial-with-phoenix-add-crud-using-mutations/) by Ryan Swapp
 
 
 ### 2016-12-01
 * [Chat web-app using Phoenix and Vue.js — Part 1](https://medium.com/@jespr/create-a-simple-chat-web-app-using-phoenix-and-vue-js-bc5d82e53f9b#.m5mkpfmh0) by Jesper Christiansen
+* [Up, Down, Up with Ecto Migrations](https://hashrocket.com/blog/posts/up-down-up-with-ecto-migrations) by Josh Branchaud
 
 
 ### 2016-11-28
@@ -542,6 +548,7 @@
 
 ### 2016-10-25
 * [Hosting A Phoenix App in a Subdirectory With nginx](http://geoffreylessel.com/2016/hosting-a-phoenix-app-in-a-subdirectory-with-nginx/) by Geoffrey Lessel
+* [Create and Publish Your Own Elixir Mix Archives](https://hashrocket.com/blog/posts/create-and-publish-your-own-elixir-mix-archives) by Micah Cooper
 
 
 ### 2016-10-23
@@ -615,6 +622,7 @@
 
 ### 2016-09-20
 * [Is Elixir programming really that hard?](http://cloudless.studio/articles/38-is-elixir-programming-really-that-hard) by Karol Słuszniak
+* [The Adventures of Generating Random Numbers in Erlang and Elixir](https://hashrocket.com/blog/posts/the-adventures-of-generating-random-numbers-in-erlang-and-elixir) by Dorian Karter
 
 ### 2016-09-19
 * [How to Create a Minimal Phoenix Elixir Server Docker Image That is Less Than 100 MB](http://jeremybellows.com/blog/How-to-Create-a-Minimal-Phoenix-Elixir-Server-Docker-Image) by Jeremy Bellows
@@ -686,6 +694,7 @@
 
 ### 2016-07-26
 * [Connecting to Multiple Databases with Ecto](http://geoffreylessel.com/2016/connecting-to-multiple-databases-with-ecto/) by Geoffrey Lessel
+* [Mocking Requests in Elixir Tests](https://hashrocket.com/blog/posts/mocking-requests-in-elixir-tests) by Jason Cummings
 
 ### 2016-07-24
 * [I Accidentally Some Machine Learning - My Story of A Month of Learning Elixir](http://fredwu.me/post/147855522498/i-accidentally-some-machine-learning-my-story-of) by Fred Wu
@@ -840,8 +849,13 @@
 * [Phoenix + React: love story. RePh 1.](https://medium.com/@chvanikoff/phoenix-react-love-story-reph-1-c68512cfe18#.lqvzy6hic) by Roman Chvanikov
 
 
+### 2016-05-06
+* [Elixir With Love](https://hashrocket.com/blog/posts/elixir-with-love) by Micah Woods
+
+
 ### 2016-05-04
 * [Using Ecto For Formula 1 Standings](http://geoffreylessel.com/2016/f1-standings-with-ecto/) by Geoffrey Lessel
+* [Mocking API’s with Elixir](https://hashrocket.com/blog/posts/mocking-api-s-with-elixir) by Micah Woods
 
 
 ### 2016-05-02
@@ -980,6 +994,10 @@
 * [Using LetsEncrypt to Switch a Phoenix App Deployed with Dokku to HTTPS](https://blog.praveenperera.com/using-letsencrypt-to-switch-a-phoenix-app-deployed-with-dokku-to-https/)
 
 
+### 2016-02-16
+* [Nested Associations & Changeset Errors in Ecto](https://medium.com/@cjbell_/nested-associations-changeset-errors-in-ecto-f0ce6a4fec70) by Chris Bell
+
+
 ### 2016-02-15
 * [Using Phoenix with docker, Part 1: Introduction](http://floriank.github.io/post/using-phoenix-with-docker-part-1-introduction/) by Florian Kraft
 * [Using Phoenix with docker, Part 2: Implementation](https://floriank.github.io/post/using-phoenix-with-docker-part-2-implementation/) by Florian Kraft
@@ -1042,6 +1060,10 @@
 * [Experimenting with Ecto Queries](http://learningelixir.joekain.com/experiments-with-ecto-queries/) by Joseph Kain
 
 
+### 2016-01-07
+* [Sharing Functions Between Phoenix Controllers](https://medium.com/@cjbell_/sharing-methods-between-phoenix-controllers-358ab6d36e22) by Chris Bell
+
+
 ### 2016-01-03
 * [Realtime chat with Vue.js and Phoenix](http://fullstackstanley.com/read/realtime-chat-with-vue-js-and-phoenix) by Mitch Stanley
 
@@ -1080,6 +1102,14 @@
 
 ### 2015-09-25
 * [Complete Guide to Deploying Phoenix Applications using Dokku 0.4.0+](https://blog.praveenperera.com/deploying-phoenix-applications-using-dokku/)
+
+
+### 2015-09-15
+* [Implementing Video Chat in a Phoenix Application with WebRTC](https://hashrocket.com/blog/posts/implementing-video-chat-in-a-phoenix-application-with-webrtc) by Chad Brading
+
+
+### 2015-07-25
+* [Create a Mix Task for an Elixir Project](http://joeyates.info/2015/07/25/create-a-mix-task-for-an-elixir-project/) by Joe Yates
 
 
 ### 2015-06-30
@@ -1153,8 +1183,16 @@
 ### 2017-04-18
 * [Hello World | Zero to Hero in Elixir #1](https://www.youtube.com/watch?v=Jydr6UUYs2U) by Leandro Bighetti
 
+### 2017-03-03
+* [How Do You Add Environmental Variables to Ember.js?](https://www.youtube.com/watch?v=pX7pM0tBTfo) by Erik Hanchett
+
 ### 2017-02-28
 * [Lonestar ElixirConf 2017- Holistically built and tested APIs](https://www.youtube.com/watch?v=LrJpzTvJrMc) by Brian Cardarella
 
 ### 2015-03-28
 * [Erlang Factory SF 2015 - Jamie Winsor -Building And Releasing A Massively Multiplayer Online Game](https://www.youtube.com/watch?v=_i6n-eWiVn4) by Jamie Winsor
+
+
+
+
+###### "Like slavery & apartheid, poverty is not natural. It is man-made and it can be overcome and eradicated by the actions of human beings... Overcoming poverty is not a gesture off charity. It is an act of justice. It is the protection of a fundamental human right, the right to dignity and a decent life. While poverty persists, there is no true freedom."
