@@ -1,6 +1,6 @@
 # Awesome Elixir Posts
 
-#### Updated on: 2017-06-19
+#### Updated on: 2017-06-26
 
 - [BLOG POSTS](#blog-posts)
 - [VIDEOS](#videos)
@@ -9,10 +9,34 @@
 ## BLOG POSTS
 
 
+### 2017-06-19
+* [Multi Tenancy in Phoenix - S02E02](http://www.schmitty.me/multi-tenancy-in-phoenix/) by Cory Schmitt
+
+
+### 2017-06-17
+* [Distillery releases with Docker multi-stage builds](https://zorbash.com/post/docker-multi-stage-elixir-distillery-releases/) by Dimitris Zorbas
+
+
+### 2017-06-13
+* [Using Mix Templates with Phoenix S02E01](http://www.schmitty.me/phoenix-1-3-and-webpack-2-0/) by Cory Schmitt
+
+
+### 2017-06-19
+* [Performance variations of string substitution in Elixir](http://minhajuddin.com/2017/06/19/performance-variations-of-string-substitution-in-elixir/) by Khaja Minhajuddin
+
+
+### 2017-06-18
+* [Tutorial: Extending Elixir with C using NIF](http://cs.mcgill.ca/~mxia3/2017/06/18/tutorial-extending-elixir-with-c-using-NIF/) by Meng Xuan Xia
+
+
 ### 2017-06-15
 * [Introducing ElixirLS, the Elixir Language Server](https://medium.com/@JakeBeckerCode/introducing-elixirls-the-elixir-language-server-d449bbbdfc01) by Jake Becker
 * [Compiler hacks in ElixirLS](https://medium.com/@JakeBeckerCode/compiler-hacks-in-elixirls-6a6f04834f66) by Jake Becker
 * [Testing Absinthe with ExUnit](http://tosbourn.com/testing-absinthe-exunit/) by tosbourn
+
+
+### 2017-06-13
+* [TIL about Ecto Schema @derive](https://blog.trenpixster.info/til-about-ecto-schema-derive/) by trenpixter
 
 
 ### 2017-06-10
@@ -23,6 +47,15 @@
 
 ### 2017-06-08
 * [Stateful WebSockets with Elixir’s GenStage](https://medium.com/mint-digital/stateful-websockets-with-elixirs-genstage-a29eab420c0d) by Ed Ellson
+* [Debugging Elixir in VS Code](https://medium.com/@JakeBeckerCode/debugging-elixir-in-vs-code-400e21814614) by Jake Becker
+
+
+### 2017-06-06
+* [Home Weather Display with Nerves and GrovePi](https://axelclark.com/home-weather-display-project/) by Axel Clark
+
+
+### 2017-06-05
+* [Challenges faced while scaling to serve millions of views per day on AWS using Kubernetes, React, PHP, and Elixir](http://engineering.teacherspayteachers.com/2017/06/05/challenges-faced-while-scaling-to-serve-millions-of-views-per-day.html) by Ryan Sydnor
 
 
 ### 2017-06-02
@@ -56,6 +89,7 @@
 * [Pattern Matching And State Machines](https://nerds.stoiximan.gr/2017/05/24/pattern-matching-and-state-machines/) by Manos Emmanouilidis
 * [Writing a Custom Action in ExAdmin](https://davejlong.com/2017/05/24/writing-a-custom-action-in-exadmin/) by Dave Long
 * [What are some use cases where Elixir/Phoenix is more advantageous than Ruby/Rails?](https://hmans.io/posts/2017/05/24/elixir-phoenix-use-cases.html) by Hendrik Mans
+* [Tutorial: Deploying Elixir applications with Docker and Digital Ocean](https://subvisual.co/blog/posts/137-tutorial-deploying-elixir-applications-with-docker-and-digital-ocean/) by Miguel Palhas
 
 
 ### 2017-05-23
@@ -83,6 +117,7 @@
 
 ### 2017-05-16
 * [A Complete Guide to Deploying Elixir & Phoenix Applications on Kubernetes — Part 3: Deploying to Kubernetes](https://blog.polyscribe.io/a-complete-guide-to-deploying-elixir-phoenix-applications-on-kubernetes-part-3-deploying-to-bd5b1fcbef87) by Rohan Relan
+* [Putting Contexts in Context](http://michal.muskala.eu/2017/05/16/putting-contexts-in-context.html) by Michał Muskała
 
 
 ### 2017-05-15
@@ -120,6 +155,11 @@
 
 ### 2017-05-05
 * [A Complete Guide to Deploying Elixir & Phoenix Applications on Kubernetes — Part 1: Setting up Distillery](https://blog.polyscribe.io/a-complete-guide-to-deploying-elixir-phoenix-applications-on-kubernetes-part-1-setting-up-d88b35b64dcd) by Rohan Relan
+
+
+### 2017-05-03
+* [An Introduction to APIs with Phoenix](https://blog.codeship.com/an-introduction-to-apis-with-phoenix/) by Micah Woods
+* [Ridiculously Fast API Authentication with Phoenix](https://blog.codeship.com/ridiculously-fast-api-authentication-with-phoenix/) by Micah Woods
 
 
 ### 2017-04-29
@@ -176,6 +216,10 @@
 ### 2017-04-13
 * [Developing For Alexa Using Elixir (Part One)](http://lesseverything.com//blog/developing-for-alexa-using-elixir-part-one/) by Eugen
 * [Embrace the Database with Ecto](https://hashrocket.com/blog/posts/embrace-the-database-with-ecto) by Josh Branchaud
+
+
+### 2017-04-12
+* [Elixir and Phoenix Decoded: Configuring Guardian and GuardianDb](https://medium.com/@erickipnis/elixir-and-phoenix-decoded-configuring-guardian-and-guardiandb-b49f68adb98b) by Eric Kipnis
 
 
 ### 2017-04-10
@@ -238,6 +282,7 @@
 
 ### 2017-03-22
 * [Tuple Types in Erlang and Elixir](http://get-finch.com/2017/03/22/tuple_types_in_erlang_and_elixir.html) by Zach Kessin
+* [Why I Stayed With Elixir](http://michal.muskala.eu/2017/03/22/why-i-stayed-with-elixir.html) by Michał Muskała
 
 
 ### 2-17-03-21
@@ -352,6 +397,10 @@
 * [Securing WebSockets in Elixir](https://medium.com/casper-crafted/securing-websockets-in-elixir-770cbd2da043) by Kevin McNamee
 
 
+### 2017-02-10
+* [Error Handling in Elixir Libraries](http://michal.muskala.eu/2017/02/10/error-handling-in-elixir-libraries.html) by Michał Muskała
+
+
 ### 2017-02-09
 * [How to fix Ecto duplicate name migrations error](http://minhajuddin.com/2017/02/09/how-to-fix-ecto-duplicate-name-migrations-error/) by Khaja Minhajuddin
 * [Phoenix with Ecto and MongoDb](https://tomjoro.github.io/2017-02-09-ecto3-mongodb-phoenix/) by Thomas O'Rourke
@@ -373,6 +422,7 @@
 
 ### 2017-02-02
 * [Comparing Elixir and Go](https://blog.codeship.com/comparing-elixir-go/) by Barry Jones
+* [Unix Timestamps in Elixir 1.4](http://michal.muskala.eu/2017/02/02/unix-timestamps-in-elixir-1-4.html) by Michał Muskała
 
 
 ### 2017-02-03
@@ -390,6 +440,7 @@
 
 ### 2017-01-25
 * [Setting up Bucklescript with Phoenix](http://blog.overminddl1.com/posts/setting-up-bucklescript-with-phoenix/) by
+* [Serving Encoded JSON With Poison](http://michal.muskala.eu/2017/01/25/serving-encoded-json-with-poison.html) by Michał Muskała
 
 
 ### 2017-01-24
@@ -947,6 +998,10 @@
 * [Let's Build Something: Elixir, Part 1 - A Simple GenServer](http://tech.strofcon.org/2016/03/lets-build-elixir-part-1.html) by Cody Boggs
 
 
+### 2016-03-20
+* [A Saner way to deal with complex flows](http://blog.trenpixster.info/a-saner-way-to-deal-with-complex-flows/) by trenpixter
+
+
 ### 2016-03-15
 * [Querying For Models With no Matching Associations in Ecto](http://learningelixir.joekain.com/none-of-the-associations-in-ecto/) by Joseph Kain
 
@@ -1092,6 +1147,10 @@
 * [Parallelise external API calls with Elixir to make them super fast](http://zen.id.au/parallelise-external-api-calls-with-elixir-to-make-them-super-fast/) by Zen Savona
 
 
+### 2015-10-16
+* [Understanding Lists](http://michal.muskala.eu/2015/10/16/understanding-lists.html) by Michał Muskała
+
+
 ### 2015-10-15
 * [Embedding Elixir Structs in Ecto Models](https://robots.thoughtbot.com/embedding-elixir-structs-in-ecto-models) by John Steiner
 
@@ -1108,8 +1167,28 @@
 * [Implementing Video Chat in a Phoenix Application with WebRTC](https://hashrocket.com/blog/posts/implementing-video-chat-in-a-phoenix-application-with-webrtc) by Chad Brading
 
 
+### 2015-08-30
+* [API Authentication with Guardian](http://hassox.github.io/elixir/guardian/2015/06/30/api-authentication-with-guardian.html) by 
+
+
+### 2015-08-10
+* [Functional FizzBuzz in Elixir](http://michal.muskala.eu/2015/08/10/functional-fizzbuzz-in-elixir.html) by Michał Muskała
+
+
+### 2015-08-06
+* [Parallel Downloads in Elixir](http://michal.muskala.eu/2015/08/06/parallel-downloads-in-elixir.html) by Michał Muskała
+
+
+### 2015-06-30
+* [Digging - Phoenix Models](http://blog.trenpixster.info/digging-phoenix-models/) by trenpixter
+
+
 ### 2015-07-25
 * [Create a Mix Task for an Elixir Project](http://joeyates.info/2015/07/25/create-a-mix-task-for-an-elixir-project/) by Joe Yates
+
+
+### 2015-07-07
+* [Creating Ecto Adapters](http://michal.muskala.eu/2015/07/07/creating-ecto-adapters.html) by Michał Muskała
 
 
 ### 2015-06-30
@@ -1130,14 +1209,23 @@
 
 ### 2015-02-01
 * [Why I’m betting on Elixir](https://medium.com/@kenmazaika/why-im-betting-on-elixir-7c8f847b58) by Ken Mazaika
+* [Elixir and Travis CI](http://blog.trenpixster.info/elixir-and-travis-ci/) by trenpixter
+
+
+### 2015-01-13
+* [Error handling flow in Elixir](http://blog.trenpixster.info/error-handling-in-elixir/) by trenpixter
+
+
+### 2014-12-28
+* [Elixir TDD’ing](http://blog.trenpixster.info/elixir-tdding-2/) by trenpixter
+* [Elixir: From 0 to spawn() in 30 minutes](http://blog.trenpixster.info/elixir-from-0-to-spawn/) by trenpixter
 
 
 ### 2014-10-11
 * [Producer-Consumer problem in Elixir](http://benjamintan.io/blog/2014/10/11/producer-consumer-problem-in-elixir/) by Benjamin Tan Wei Hao
 
 
-
-### 2017-05-25
+### 2014-05-25
 * [Connecting Elixir nodes on the same LAN](http://benjamintan.io/blog/2014/05/25/connecting-elixir-nodes-on-the-same-lan/) by Benjamin Tan Wei Hao
 
 
