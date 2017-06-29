@@ -388,6 +388,10 @@
 * [When and Where to use cast,call & info messages in Elixir & Erlang — GenServer](https://medium.com/blackode/when-and-where-to-use-cast-cal-info-messages-in-elixir-erlang-genserver-9baf937b6494#.qrls86a0w) by Blackode
 
 
+### 2017-02-15
+* [Executable Elixir: Working with Escripts](http://www.thegreatcodeadventure.com/executable-elixir-working-with-escripts/) by Sophie DeBenedetto
+
+
 ### 2017-02-13
 * [Concurrency in Elixir](https://blog.codeship.com/concurrency-in-elixir/) by Leigh Halliday
 * [Build Your Own Code Poster with Elixir](http://www.east5th.co/blog/2017/02/13/build-your-own-code-poster-with-elixir/) by Pete Corey
@@ -400,6 +404,10 @@
 ### 2017-02-14
 * [Concurrency in Elixir](https://blog.codeship.com/concurrency-in-elixir/) by Leigh Halliday
 * [Securing WebSockets in Elixir](https://medium.com/casper-crafted/securing-websockets-in-elixir-770cbd2da043) by Kevin McNamee
+
+
+### 2017-02-12
+* [Elixir Linter: Building an OTP Elixir Code Quality Engine with Credo](http://www.thegreatcodeadventure.com/elixir-linter-building-an-otp-elixir-code-quality-engine-with-credo/) by Sophie DeBenedetto
 
 
 ### 2017-02-10
@@ -437,6 +445,11 @@
 ### 2017-01-30
 * [Elixir: the new wave or an elegant niche?](https://hackernoon.com/elixir-the-new-wave-or-an-elegant-niche-5e38b4de0783) by Derek Haynes
 * [Nested Forms In Phoenix](http://lesseverything.com/blog/nested-forms-in-phoenix/) by Michael Rode
+
+
+### 2017-01-29
+* [Elixir Tricks: Building a Recursive List#delete_all Function](http://www.thegreatcodeadventure.com/elixir-tricks-building-a-recursive-list-delete_all-function/) by Sophie DeBenedetto
+* [Elixir Tricks: Building a Recursive Function to List All Files in a Directory](http://www.thegreatcodeadventure.com/elixir-tricks-building-a-recursive-function-to-list-all-files-in-a-directory/) by Sophie DeBenedetto
 
 
 ### 2017-01-26
