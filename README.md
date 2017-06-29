@@ -1,6 +1,6 @@
 # Awesome Elixir Posts
 
-#### Updated on: 2017-06-26
+#### Updated on: 2017-06-29
 
 - [BLOG POSTS](#blog-posts)
 - [VIDEOS](#videos)
@@ -19,6 +19,7 @@
 
 ### 2017-06-13
 * [Using Mix Templates with Phoenix S02E01](http://www.schmitty.me/phoenix-1-3-and-webpack-2-0/) by Cory Schmitt
+* [TIL about Ecto Schema @derive](http://blog.trenpixster.info/til-about-ecto-schema-derive/) by trenpixter
 
 
 ### 2017-06-19
@@ -285,8 +286,12 @@
 * [Why I Stayed With Elixir](http://michal.muskala.eu/2017/03/22/why-i-stayed-with-elixir.html) by Michał Muskała
 
 
-### 2-17-03-21
+### 2017-03-21
 * [Titled URL Slugs in Phoenix](https://hashrocket.com/blog/posts/titled-url-slugs-in-phoenix) by Jake Worth
+
+
+### 2017-03-20
+* [Saner way to deal with complex flows](http://blog.trenpixster.info/a-saner-way-to-deal-with-complex-flows/) by trenpixter
 
 
 ### 2017-03-17
@@ -1179,7 +1184,7 @@
 * [Parallel Downloads in Elixir](http://michal.muskala.eu/2015/08/06/parallel-downloads-in-elixir.html) by Michał Muskała
 
 
-### 2015-06-30
+### 2015-07-30
 * [Digging - Phoenix Models](http://blog.trenpixster.info/digging-phoenix-models/) by trenpixter
 
 
