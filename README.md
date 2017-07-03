@@ -1,12 +1,24 @@
 # Awesome Elixir Posts
 
-#### Updated on: 2017-06-29
+#### Updated on: 2017-07-03
 
 - [BLOG POSTS](#blog-posts)
 - [VIDEOS](#videos)
 
 
 ## BLOG POSTS
+
+
+### 2017-06-27
+* [The Missing Guide to Elixir](https://circleci.com/blog/the-missing-guide-to-elixir/) by Zachary Scott
+
+
+### 2017-06-26
+* [Extensibility in Elixir Using Protocols](https://medium.com/everydayhero-engineering/extensibility-in-elixir-using-protocols-2e8fb0a35c48) by Matt Furness
+
+
+### 2017-06-23
+* [Working with the new Phoenix 1.3 directory structure – A Love Story](https://blog.jakewilkins.com/2017/06/23/working-with-phoenix-1-3-directory-structure-a-love-story/) by Jake Wilkins
 
 
 ### 2017-06-19
@@ -475,6 +487,10 @@
 * [Unit Testing Higher Order Functions in Elixir](https://medium.com/everydayhero-engineering/unit-testing-higher-order-functions-in-elixir-9b376a940eff) by Aaron Abrook
 
 
+### 2017-01-17
+* [Elixir Atoms](https://medium.com/everydayhero-engineering/elixir-atoms-3b0f06bc47ef) by Matt Furness
+
+
 ### 2017-01-16
 * [Debugging incoming requests in a Phoenix router](https://medium.com/@QuantLayer/debugging-incoming-requests-in-phoenix-router-19ec3c55d04e#.5fhy8zcnk) by Vikram Ramakrishnan
 
@@ -501,6 +517,10 @@
 
 ### 2017-01-03
 * [Online Status with Phoenix Presence and Ember](https://m.brianmcmanus.org/online-status-with-phoenix-presence-and-ember-687348d1c351) by Brian McManus
+
+
+### 2016-12-23
+* [Elixir Function Capturing](https://medium.com/everydayhero-engineering/elixir-function-capturing-13a3ed963fe3) by Matt Furness
 
 
 ### 2016-12-21
@@ -869,11 +889,14 @@
 
 ### 2016-05-29
 * [Continuous Delivery for Elixir (Part 3 — conform is the new norm)](https://medium.com/@jeffweiss/continuous-delivery-for-elixir-part-3-conform-is-the-new-norm-f6a2e8552bff#.k7avw7hvt) by Jeff Weiss
+* [Elixir /Phoenix — Lets code authentication. Todo application part 2](https://medium.com/@Stephanbv/elixir-phoenix-lets-code-authentication-todo-application-part-2-f52348c2b32f) by Stephan Bakkelund Valois
+* [Elixir /Phoenix — Lets code authentication. Todo application part 3](https://medium.com/@Stephanbv/elixir-phoenix-lets-code-authentication-todo-application-part-3-acb879d8816) by Stephan Bakkelund Valois
 
 
 ### 2016-05-28
 * [Continuous Delivery for Elixir (Part 1 — Introduction)](https://medium.com/@jeffweiss/continuous-delivery-with-elixir-part-1-introduction-826ae5ddb569#.nbv7apluf) by Jeff Weiss
 * [Continuous Delivery for Elixir (Part 2 — Our Project)](https://medium.com/@jeffweiss/continuous-delivery-for-elixir-part-2-our-project-ae6406c6a990#.sxrpgp1cy) by Jeff Weiss
+* [Elixir /Phoenix— Lets code authentication. Todo application part 1](https://medium.com/@Stephanbv/elixir-phoenix-lets-code-authentication-todo-application-part-1-599ee94cd04d) by Stephan Bakkelund Valois
 
 
 ### 2016-05-27
