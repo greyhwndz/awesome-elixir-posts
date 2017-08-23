@@ -1,6 +1,6 @@
 # Awesome Elixir Posts
 
-#### Updated on: 2017-08-20
+#### Updated on: 2017-08-22
 
 - [BLOG POSTS](#blog-posts)
 - [VIDEOS](#videos)
@@ -8,8 +8,25 @@
 
 ## BLOG POSTS
 
+
+### 2017-08-22
+* [Building An Image Upload API With Phoenix](https://dockyard.com/blog/2017/08/22/building-an-image-upload-api-with-phoenix) by Alex Garibay
+
+
 ### 2017-08-20
 * [Serving Phoenix apps with SSL and Let's Encrypt - No Nginx, No Certbot!](http://www.51percent.tech/blog/uncategorized/serving-phoenix-apps-ssl-and-lets-encrypt/) by tvanes
+
+
+### 2017-08-15
+* [5 Elixir tricks you should know](https://dockyard.com/blog/2017/08/15/elixir-tips) by Daniel Xu
+
+
+### 2017-08-02
+* [Part 2: Should you use Ember FastBoot or not?](https://dockyard.com/blog/2017/08/02/should-you-use-ember-fastboot-or-not-part-2) by Brian Cardarella
+
+
+### 2017-08-01
+* [Part 1: Should you use Ember FastBoot or not?](https://dockyard.com/blog/2017/08/01/should-you-use-ember-fastboot-or-not-part-1)
 
 
 ### 2017-07-13
@@ -667,6 +684,10 @@
 * [Elixir and IO Lists, Part 2: IO Lists in Phoenix](https://www.bignerdranch.com/blog/elixir-and-io-lists-part-2-io-lists-in-phoenix/) by Nathan Long
 
 
+### 2016-10-20
+* [Live Search with Ember & JSON API](https://dockyard.com/blog/2016/10/20/live-search-with-jsonapi) by Romina Vargas
+
+
 ### 2016-10-18
 * [Reactive Tweets with Elixir GenStage](https://almightycouch.org/blog/reactive-tweets-elixir-genstage/) by Mario Flach
 * [Test driving a Phoenix endpoint, part I](https://medium.com/@lasseebert/test-driving-a-phoenix-endpoint-part-i-b53e300c1a0a) by Lasse Ebert
@@ -879,6 +900,7 @@
 ### 2016-06-05
 * [Separate JS & CSS for admin panel in Phoenix](http://cloudless.studio/articles/5-separate-js-css-for-admin-panel-in-phoenix) by Karol Słuszniak
 * [Elixir — Process Registries](https://medium.com/@StevenLeiva1/elixir-process-registries-a27f813d94e3) by Steven Leiva
+* [New to Elixir 1.3 - Kernel.pop_in](https://dockyard.com/blog/2016/06/05/elixir-1-3-kernel-pop-in) by Brian Cardarella
 
 
 ### 2016-06-02
@@ -908,6 +930,7 @@
 
 ### 2016-05-27
 * [Installing Font Awesome from NPM in Phoenix](http://cloudless.studio/articles/4-installing-font-awesome-from-npm-in-phoenix) by Karol Słuszniak
+* [TIL: Ecto supports a query inside another query](https://dockyard.com/blog/2016/05/27/til-ecto-supports-query-inside-query) by Marin Abernethy
 
 
 ### 2016-05-26
