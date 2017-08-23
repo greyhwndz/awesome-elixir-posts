@@ -1,12 +1,19 @@
 # Awesome Elixir Posts
 
-#### Updated on: 2017-07-03
+#### Updated on: 2017-08-20
 
 - [BLOG POSTS](#blog-posts)
 - [VIDEOS](#videos)
 
 
 ## BLOG POSTS
+
+### 2017-08-20
+* [Serving Phoenix apps with SSL and Let's Encrypt - No Nginx, No Certbot!](http://www.51percent.tech/blog/uncategorized/serving-phoenix-apps-ssl-and-lets-encrypt/) by tvanes
+
+
+### 2017-07-13
+* [A Year with Cachex in Production](https://whitfin.io/a-year-with-cachex-in-production/) by Isaac Whitfield
 
 
 ### 2017-06-27
