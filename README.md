@@ -1,6 +1,6 @@
 # Awesome Elixir Posts
 
-#### Updated on: 2017-08-22
+#### Updated on: 2017-08-26
 
 - [BLOG POSTS](#blog-posts)
 - [VIDEOS](#videos)
@@ -9,12 +9,17 @@
 ## BLOG POSTS
 
 
+### 2017-08-24
+* [Using Elixir 1.5's open command with terminal Emacs](https://dockyard.com/blog/2017/08/24/elixir-open-command-with-terminal-emacs) by Chris McCord
+
+
 ### 2017-08-22
 * [Building An Image Upload API With Phoenix](https://dockyard.com/blog/2017/08/22/building-an-image-upload-api-with-phoenix) by Alex Garibay
 
 
 ### 2017-08-20
 * [Serving Phoenix apps with SSL and Let's Encrypt - No Nginx, No Certbot!](http://www.51percent.tech/blog/uncategorized/serving-phoenix-apps-ssl-and-lets-encrypt/) by tvanes
+* [Business logic, adapters, platforms and how to plug it together](https://medium.com/@uraniumsheep/business-logic-adapters-platforms-and-how-to-plug-it-together-83431f500a55) by David Šljukić
 
 
 ### 2017-08-15
@@ -27,6 +32,7 @@
 
 ### 2017-08-01
 * [Part 1: Should you use Ember FastBoot or not?](https://dockyard.com/blog/2017/08/01/should-you-use-ember-fastboot-or-not-part-1)
+* [Authorization Considerations For Phoenix Contexts](https://dockyard.com/blog/2017/08/01/authorization-for-phoenix-contexts) by Chris McCord
 
 
 ### 2017-07-13
@@ -382,8 +388,13 @@
 * [Resetting a test database with Ecto](http://www.johnpdaigle.com/complexable/2016/03/05/resetting-a-test-database-with-ecto.html)
 
 
+### 2017-03-04
+* [action_fallback and contexts in Phoenix 1.3 made my controllers tiny!](https://swanros.com/2017/03/04/action-fallback-contexts-phoenix1-3-tiny-controllers/) by Oscar Swanros
+
+
 ### 2017-03-03
 * [Elixir State Management: Agent or GenServer?](http://awochna.com/2017/03/03/elixir-state-management.html) by Alex Wochna
+* [Phoenix 1.3 is pure love for API development](https://swanros.com/2017/03/03/phoenix-1-3-is-pure-love-for-api-development/) by Oscar Swanros
 
 
 ### 2017-03-02
@@ -705,6 +716,10 @@
 * [Creating a Chatroom Using Phoenix, Elm, and Websockets](http://jeremybellows.com/blog/Creating-a-Chatroom-Using-Phoenix-Elm-And-Websockets) by Jeremy Bellows
 
 
+### 2016-10-09
+* [Using Poolboy w/Elixir](http://www.arifyayalar.me/2016/10/09/using-poolboy-w-elixir/) by Arif Yayalar
+
+
 ### 2016-10-08
 * [Using GenStage to Notify a Phoenix Channel of Updates in Elixir](http://learningelixir.joekain.com/using-gen-stage-to-notify-a-channel/) by Joseph Kain
 
@@ -729,6 +744,10 @@
 
 ### 2016-09-28
 * [Elixir and Unicode, Part 2: Working with Unicode Strings](https://www.bignerdranch.com/blog/elixir-and-unicode-part-2-working-with-unicode-strings/) by Nathan Long
+
+
+### 2016-09-27
+* [Replace Callbacks with Ecto.Multi](http://blog.danielberkompas.com/2016/09/27/ecto-multi-services.html) by Daniel Berkompas
 
 
 ### 2016-09-26
@@ -995,6 +1014,10 @@
 
 ### 2016-04-25
 * [Elixir — Notes on Error Handling](https://medium.com/@StevenLeiva1/elixir-notes-on-error-handling-570cdeae065a) by Steven Leiva
+
+
+### 2016-04-23
+* [Multidimensional Arrays in Elixir](http://blog.danielberkompas.com/2016/04/23/multidimensional-arrays-in-elixir.html) by Daniel Berkompas
 
 
 ### 2016-04-22
@@ -1264,6 +1287,10 @@
 
 ### 2015-06-30
 * [Elixir in times of microservices](http://blog.plataformatec.com.br/2015/06/elixir-in-times-of-microservices/) by José Valim
+
+
+### 2015-06-10
+* [How to Write Guard Macros](http://blog.danielberkompas.com/elixir/2015/06/10/how-to-write-guard-macros.html) by Daniel Berkompas
 
 
 ### 2015-06-08
