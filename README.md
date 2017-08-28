@@ -1,6 +1,6 @@
 # Awesome Elixir Posts
 
-#### Updated on: 2017-08-26
+#### Updated on: 2017-08-28
 
 - [BLOG POSTS](#blog-posts)
 - [VIDEOS](#videos)
@@ -13,13 +13,26 @@
 * [Using Elixir 1.5's open command with terminal Emacs](https://dockyard.com/blog/2017/08/24/elixir-open-command-with-terminal-emacs) by Chris McCord
 
 
+### 2017-08-23
+* [Continuous Deployment of an Elixir Phoenix Application to Heroku with Semaphore](https://semaphoreci.com/community/tutorials/continuous-deployment-of-an-elixir-phoenix-application-to-heroku-with-semaphore) by Josh Adams
+
+
 ### 2017-08-22
 * [Building An Image Upload API With Phoenix](https://dockyard.com/blog/2017/08/22/building-an-image-upload-api-with-phoenix) by Alex Garibay
+* [Creating Lenses in Elixir](https://medium.com/@aaronabrook/creating-lenses-in-elixir-37e2318c3846) by Aaron Abrook 
 
 
 ### 2017-08-20
 * [Serving Phoenix apps with SSL and Let's Encrypt - No Nginx, No Certbot!](http://www.51percent.tech/blog/uncategorized/serving-phoenix-apps-ssl-and-lets-encrypt/) by tvanes
 * [Business logic, adapters, platforms and how to plug it together](https://medium.com/@uraniumsheep/business-logic-adapters-platforms-and-how-to-plug-it-together-83431f500a55) by David Šljukić
+
+
+### 2017-08-19
+* [Stateful GenServers in Elixir](http://gladecki.pl/2017/08/19/stateful-genservers-in-elixir/) by Bartosz Gladecki
+
+
+### 2017-08-16
+* [ELIXIR IN DEPTH - READING AND PERSONAL NOTES](http://digitalfreepen.com/2017/08/16/elixir-in-depth-notes.html) by Rudi Chen
 
 
 ### 2017-08-15
@@ -312,6 +325,7 @@
 ### 2017-03-27
 * [Ecto Custom Types, a practical case with enumerize (Rails gem)](https://medium.com/acutario/ecto-custom-types-a-practical-case-with-enumerize-rails-gem-b5496c2912ac#.3a6im5u50) by Rubén Sierra
 * [Decorating Elixir](https://medium.com/acutario/decorating-elixir-af08bd46b2fc) by Rubén Sierra
+* [Create an Elixir Phoenix API — Part 1 — Initial Barebones Setup](https://medium.com/everydayhero-engineering/create-an-elixir-phoenix-api-part-1-initial-barebones-setup-7c840a6c4c5c) by Aaron Abrook
 
 
 ### 2017-03-26
@@ -378,6 +392,7 @@
 * [Elixir - 3 Reasons Why You Should Be Using It](http://www.littlealchemist.io/2017-03-07-elixir-3-reasons-why-you-should-be-using-it/) by Leandro Bighetti
 * [Elixir - different kind of promises](https://www.amberbit.com/blog/2017/3/7/elixir-different-kind-of-promises/)
 * [Concurrency Abstractions in Elixir](https://blog.codeship.com/concurrency-abstractions-in-elixir/) by Leigh Halliday
+* [Making a Mailing Microservice with Elixir and RabbitMQ](https://semaphoreci.com/blog/2017/03/07/making-mailing-microservice-with-elixir-and-rabbitmq.html) by Stefan Mijučić
 
 
 ### 2017-03-06
@@ -567,6 +582,7 @@
 * [Notes From A Year Learning Programming: Ruby, Elixir, and JavaScript](https://axelclark.com/notes-from-a-year-learning-programming/) by axel Clark
 * [Intentionally Learning Elixir](http://www.east5th.co/blog/2016/12/19/intentionally-learning-elixir/) by Pete Corey
 * [Reducing the maximum latency of a bound buffer](http://theerlangelist.com/article/reducing_maximum_latency) by Saša Jurić
+* [Elixir Variable Rebinding](https://medium.com/everydayhero-engineering/elixir-variable-rebinding-342c5d0fd961) by Matt Furness
 
 
 ### 2016-12-16
@@ -613,12 +629,14 @@
 
 ### 2016-11-24
 * [Replacing GenEvent by a Supervisor + GenServer](http://blog.plataformatec.com.br/2016/11/replacing-genevent-by-a-supervisor-genserver/) by José Valim
+* [How to Capture All Errors Returned by a Function Call in Elixir](https://semaphoreci.com/blog/2016/11/24/how-to-capture-all-errors-generated-by-a-function-call-in-elixir.html) by Predrag Rakić
 
 
 ### 2016-11-23
 * [Using Ecto.Multi for Complex Database Transactions](https://hackernoon.com/using-ecto-multi-for-complex-database-transactions-70aac419e81c) by Vikram Ramakrishnan
 * [Another look at Elixir’s With](https://hackernoon.com/another-look-at-elixirs-with-cbd70ccd8ba4) by Steven Blowers
 * [Binary data over Phoenix sockets](https://nerds.stoiximan.gr/2016/11/23/binary-data-over-phoenix-sockets/) by Manos Emmanouilidis
+* [I wrote 1op.eu, a WebSocket chat app that is end-to-end encrypted](http://gladecki.pl/2016/11/23/1op/) by Bartosz Gladecki
 
 
 ### 2016-11-22
