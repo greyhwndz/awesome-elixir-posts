@@ -1641,8 +1641,20 @@
 
 ## VIDEOS
 
+### 2017-10-10
+* [Guess the Word | Zero to Hero in Elixir #8 ](https://www.youtube.com/watch?v=GogZpXc8rGA) by Leandro Bighetti
+
 ### 2017-09-08
 * [Keynote: The Feature That No One Knew About in Elixir 1.5 - José Valim - Elixir.LDN 2017](https://www.youtube.com/watch?v=p4uE-jTB_Uk) by José Valim
+
+### 2017-09-01
+* [Pin Operator | 1 min of Elixir](https://www.youtube.com/watch?v=bkNCsbD4y5Q) by Leandro Bighetti
+
+### 2017-07-11
+* [Mastering the Pipe Operator | Zero to Hero in Elixir #7](https://www.youtube.com/watch?v=28UIBW2CeVc) by Leandro Bighetti
+
+### 2017-07-10
+* [Ranges | 1 min of Elixir](https://www.youtube.com/watch?v=dRqr5KTwziQ) by Leandro Bighetti
 
 ### 2017-06-16
 * [A Practical Guide to Elixir Protocols](https://www.youtube.com/watch?v=sJvfCE6PFxY) by Kevin Rockwood
@@ -1664,17 +1676,20 @@
 ### 2017-05-23
 * [Modules & Functions | Zero to Hero in Elixir #4](https://www.youtube.com/watch?v=Ipddkt5DR2w) by Leandro Bighetti
 
-### 2017-04-18
+### 2017-05-10
 * [Reading a File, Atoms and Tuples | Zero to Hero in Elixir #3](https://www.youtube.com/watch?v=tOkF5BVpKTQ) by Leandro Bighetti
 
 ### 2017-05-03
 * [Elixir hot-reloading & music generation](https://www.youtube.com/watch?v=_VgcUatTilU) by Thibaut Barrère
 
+### 2017-04-26
+* [IEx and Basic Types | Zero to Hero in Elixir #2](https://www.youtube.com/watch?v=5DeLxAKDowA) by Leandro Bighetti
+
 ### 2017-04-20
 * [Gaming with Elixir: discovering new lands in the BEAM realm](https://notamonadtutorial.com/gaming-with-elixir-discovering-new-lands-in-the-beam-realm-c7c04c51acce) by Federico Carrone
 
-
 ### 2017-04-18
+* [Reading a File, Atoms and Tuples | Zero to Hero in Elixir #3](https://www.youtube.com/watch?v=tOkF5BVpKTQ) by Leandro Bighetti
 * [From Zero to Hero in Elixir - #1 Say Hello World to my little friend](https://www.youtube.com/watch?v=Jydr6UUYs2U&t=262s) by Leandro Bighetti
 
 ### 2017-04-26
