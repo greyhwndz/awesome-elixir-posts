@@ -1,6 +1,6 @@
 # Awesome Elixir Posts
 
-#### Updated on: 2017-10-05
+#### Updated on: 2017-10-09
 
 - [BLOG POSTS](#blog-posts)
 - [VIDEOS](#videos)
@@ -9,12 +9,29 @@
 ## BLOG POSTS
 
 
+### 2017-10-09
+* [Everything you need to know about Elixir's new formatter](http://devonestes.herokuapp.com/everything-you-need-to-know-about-elixirs-new-formatter) by Devon C. Estes
+
+
 ### 2017-10-02
 * [User Authentication Kata with Elixir and Phoenix](http://www.east5th.co/blog/2017/10/02/user-authentication-kata-with-elixir-and-phoenix/) by Pete Corey
 
 
 ### 2017-09-25
+* [Testing Asynchronous Code in Elixir](http://openmymind.net/Testing-Asynchronous-Code-In-Elixir/) by Karl Seguin
+
+
+### 2017-09-11
+* [Phoenix contexts aren't finished yet](http://devonestes.herokuapp.com/phoenix-contexts-arent-finished-yet) by Devon C. Estes
+
+
+### 2017-09-06
+* [Experimenting with inherited tables in Ecto](https://swanros.com/2017/09/26/inherited-tables-in-ecto/) by Oscar Swanros
+
+
+### 2017-09-25
 * [Using GraphQL Schema Types with Apollo Server](http://www.east5th.co/blog/2017/09/25/using-graphql-schema-types-with-apollo-server/) by Pete Corey
+* [Testing Asynchronous Code in Elixir](http://openmymind.net/Pattern-Matching-In-Elixir/) by Karl Seguin
 
 
 ### 2017-09-22
@@ -32,6 +49,10 @@
 
 ### 2017-09-17
 * [Debugging & Tracing Elixir Applications](https://zorbash.com/post/debugging-elixir-applications/) by Dimitris Zorbas
+
+
+### 2017-09-16
+* [Learning Elixir's Supervisors](http://openmymind.net/Learning-Elixir-Supervisors/) by Karl Seguin
 
 
 ### 2017-09-13
@@ -125,6 +146,7 @@
 ### 2017-08-15
 * [5 Elixir tricks you should know](https://dockyard.com/blog/2017/08/15/elixir-tips) by Daniel Xu
 * [Reading Named Pipes with Elixir](https://blog.ironbay.co/reading-named-pipes-with-elixir-c5c614a32f25) by Dax Ravi
+* [Elixir's Binary Matching Performance](http://openmymind.net/Elixir-Binary-Matching-Performance/) by Karl Seguin
 
 
 ### 2017-08-14
@@ -146,6 +168,10 @@
 ### 2017-08-01
 * [Authorization Considerations For Phoenix Contexts](https://dockyard.com/blog/2017/08/01/authorization-for-phoenix-contexts) by Chris McCord
 * [Lessons From Using Phoenix 1.3](https://robots.thoughtbot.com/lessons-from-using-phoenix-1-3) by David Bernheisel
+
+
+### 2017-07-22
+* [Learning Elixir's ETS - Part 2](http://openmymind.net/Learning-Elixir-ETS-Part-2/) by Karl Seguin
 
 
 ### 2017-07-17
@@ -243,6 +269,7 @@
 
 ### 2017-05-28
 * [Intro to Elixir for non Ruby programmers - A PHP and Javascript perspective](https://ryanwinchester.ca/posts/intro-to-elixir-for-non-ruby-programmers) by Ryan Winchester
+* [Learning Elixir's ETS - Part 1](http://openmymind.net/Learning-Elixir-ETS/) by Karl Seguin
 
 
 ### 2017-05-25
@@ -440,6 +467,7 @@
 
 ### 2017-03-28
 * [A lot of Piping involved](http://www.littlealchemist.io/2017-03-28-A-lot-of-piping-involved/) by Leandro Bighetti
+* [Learning Elixir's Agent](http://openmymind.net/Learning-Elixir-Agent/) by Karl Seguin
 
 
 ### 2017-03-27
@@ -457,10 +485,15 @@
 * [Elixir to Start With](https://medium.com/@kaveh.shahbazian/elixir-to-start-with-7cefbbcfa74c#.qtfg9n157)
 
 
+### 2017-03-23
+* [Learning Elixir's GenServer - Part 2](http://openmymind.net/Learning-Elixir-GenServer-Part-2/) by Karl Seguin
+
+
 ### 2017-03-22
 * [Tuple Types in Erlang and Elixir](http://get-finch.com/2017/03/22/tuple_types_in_erlang_and_elixir.html) by Zach Kessin
 * [Why I Stayed With Elixir](http://michal.muskala.eu/2017/03/22/why-i-stayed-with-elixir.html) by Michał Muskała
 * [Dealing with legacy databases in Ecto](https://cafeinacode.com/dealing-with-legacy-databases-in-ecto-47489ee44c4?gi=646b553fbba5) by aleandros
+* [Learning Elixir's GenServer - Part 1](http://openmymind.net/Learning-Elixir-GenServer-Part-1/) by Karl Seguin
 
 
 ### 2017-03-21
@@ -739,6 +772,7 @@
 ### 2016-12-16
 * [Best parts of "What's New in Ecto 2.0"](http://cloudless.studio/articles/44-best-parts-of-what-s-new-in-ecto-2-0) by Karol Słuszniak
 * [Composing Elixir Functions](https://www.bignerdranch.com/blog/composing-elixir-functions/) by Jay Hayes
+* [Dawn of the Microlith - Monoservices with Elixir](http://tjheeta.github.io/2016/12/16/dawn-of-the-microlith-monoservices-microservices-with-elixir/) by tjheeta
 
 
 ### 2016-12-12
@@ -808,7 +842,7 @@
 
 
 ### 2016-11-16
-* [Phoenix Todos - Public and Private Lists](http://www.east5th.co/blog/2016/11/16/phoenix-todos-part-11/) by 
+* [Phoenix Todos - Public and Private Lists](http://www.east5th.co/blog/2016/11/16/phoenix-todos-part-11/) by Pete Corey
 
 
 ### 2016-11-14
@@ -829,6 +863,7 @@
 
 ### 2016-11-07
 * [NOSQL INJECTION IN PHOENIX APPLICATIONS](http://www.east5th.co/blog/2016/11/07/nosql-injection-in-phoenix-applications/) by Pete Corey
+* [Elixir's With Statement](http://openmymind.net/Elixirs-With-Statement/) by Karl Seguin
 
 
 ### 2016-10-31
@@ -943,6 +978,10 @@
 * [Elixir and Unicode, Part 1: Unicode and UTF-8 Explained](https://www.bignerdranch.com/blog/unicode-and-utf-8-explained/) by Nathan Long
 
 
+### 2016-09-22
+* [Concatenation in Elixir](http://openmymind.net/Concatenation-In-Elixir/) by Karl Seguin
+
+
 ### 2016-09-21
 * [Phoenix Todos - Transition to Redux](http://www.east5th.co/blog/2016/09/21/phoenix-todos-part-4/) by Pete Corey
 
@@ -1033,6 +1072,10 @@
 ### 2016-08-02
 * [Building and testing a Phoenix JSON API](https://robots.thoughtbot.com/building-a-phoenix-json-api) by Paul Smith
 * [Session fixation attack](http://mkaszubowski.pl/today-i-learned/2016/08/02/Today-I-Learned.html) by Maciej Kaszubowski
+
+
+### 2016-08-01
+* [Pattern Matching in Elixir](http://openmymind.net/Pattern-Matching-In-Elixir/) by Karl Seguin
 
 
 ### 2016-07-30
