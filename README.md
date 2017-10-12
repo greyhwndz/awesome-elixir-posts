@@ -100,6 +100,7 @@
 * [A Front End Quick Start Guide to Phoenix and Elixir](https://teamgaslight.com/blog/a-front-end-quick-start-guide-to-phoenix-and-elixir) by Bailey Miller
 * [Tips and Tricks for IEx](http://echobind.com/blog/2017-08-31-tips-and-tricks-for-iex/) by Robert Beene
 * [Elixir is Erlang in a nutshell](http://rocket-science.ru/hacking/2017/09/01/unveil_erlang_code_of_your_elixir_project) by Aleksei Matiushkin
+* [Deploying Elixir with Docker Part 4](http://blog.leif.io/deploying-elixir-with-docker-part-4/) by Leif Gensert
 
 
 ### 2017-08-30
@@ -115,6 +116,10 @@
 
 ### 2017-08-27
 * [Elixir's built-in documentation and testing Tools](https://ericdouglas.github.io/2017/08/27/elixir-built-in-documentation-and-testing-tools/) by Eric Douglas
+
+
+### 2017-08-25
+* [Deploying Elixir with Docker Part 3](http://blog.leif.io/deploying-elixir-with-docker-part-3/) by Leif Gensert
 
 
 ### 2017-08-24
@@ -139,6 +144,10 @@
 * [Stateful GenServers in Elixir](http://gladecki.pl/2017/08/19/stateful-genservers-in-elixir/) by Bartosz Gladecki
 
 
+### 2017-08-17
+* [Deploying Elixir with Docker Part 2](http://blog.leif.io/deploying-elixir-with-docker-part-2/) by Leif Gensert
+
+
 ### 2017-08-16
 * [ELIXIR IN DEPTH - READING AND PERSONAL NOTES](http://digitalfreepen.com/2017/08/16/elixir-in-depth-notes.html) by Rudi Chen
 
@@ -155,6 +164,10 @@
 
 ### 2017-08-12
 * [From Models to Contexts in Phoenix 1.3.0](https://medium.com/adorableio/from-models-to-contexts-in-phoenix-1-3-0-1535d1d773b2) by Zachery Moneypenny
+
+
+### 2017-08-11
+* [Deploying Elixir with Docker Part 1](http://blog.leif.io/deploying-elixir-projects-with-docker-and-distillery/) by Leif Gensert
 
 
 ### 2017-08-10
@@ -218,6 +231,7 @@
 
 ### 2017-06-18
 * [Tutorial: Extending Elixir with C using NIF](http://cs.mcgill.ca/~mxia3/2017/06/18/tutorial-extending-elixir-with-c-using-NIF/) by Meng Xuan Xia
+* [Try out your code on the latest OTP and Elixir](http://blog.leif.io/continuous-elixir-builds-with-docker/) by Leif Gensert
 
 
 ### 2017-06-15
@@ -265,6 +279,7 @@
 ### 2017-05-29
 * [Learning Regex with Elixir: Tips, Tricks & Caveats](https://blog.grillwork.io/https-blog-grillwork-io-mastering-elixir-regex-e5b9f46671af) by Drew Dixon
 * [Have You Tried Just Using a Function?](http://www.east5th.co/blog/2017/05/29/have-you-tried-just-using-a-function/) by Pete Corey
+* [Never compare dates in Elixir using "<" or ">"](http://blog.leif.io/never-use-to-compare-dates/) by Leif Gensert
 
 
 ### 2017-05-28
@@ -1566,10 +1581,17 @@
 
 ### 2015-08-31
 * [Dealing with collections - Enum (and Stream)](http://blog.distortedthinking.agency/articles/dealing-with-collections-enum-and-stream/) by Clive
+* [Token Tracking with GuardianDb](http://hassox.github.io/elixir/guardian/2015/08/31/token-tracking-with-guardian_db.html) by Daniel Neighman
 
 
 ### 2015-08-30
-* [API Authentication with Guardian](http://hassox.github.io/elixir/guardian/2015/06/30/api-authentication-with-guardian.html) by 
+* [API Authentication with Guardian](http://hassox.github.io/elixir/guardian/2015/06/30/api-authentication-with-guardian.html) by Daniel Neighman
+* [Guardian Hooks](http://hassox.github.io/elixir/guardian/2015/08/30/guardian-hooks.html) by Daniel Neighman
+* [Guardian - Renaming some things](http://hassox.github.io/elixir/guardian/2015/08/30/guardian-module-rename.html) by Daniel Neighman
+
+
+### 2015-08-29
+* [First steps in Elixir](http://blog.leif.io/first-steps-in-elixir/) by Leif Gensert
 
 
 ### 2015-08-10
@@ -1588,12 +1610,25 @@
 * [Create a Mix Task for an Elixir Project](http://joeyates.info/2015/07/25/create-a-mix-task-for-an-elixir-project/) by Joe Yates
 
 
+### 2015-07-09
+* [Removing CSRF token type](http://hassox.github.io/elixir/guardian/2015/07/09/removing-csrf-token-type.html) by Daniel Neighman
+
+
 ### 2015-07-07
 * [Creating Ecto Adapters](http://michal.muskala.eu/2015/07/07/creating-ecto-adapters.html) by Michał Muskała
 
 
 ### 2015-06-30
 * [Elixir in times of microservices](http://blog.plataformatec.com.br/2015/06/elixir-in-times-of-microservices/) by José Valim
+* [API Authentication with Guardian](http://hassox.github.io/elixir/guardian/2015/06/30/api-authentication-with-guardian.html) by Daniel Neighman
+
+
+### 2015-06-24
+* [Introducing Guardian Permissions](http://hassox.github.io/elixir/guardian/2015/06/24/introducing-guardian-permissions.html) by Daniel Neighman
+
+
+### 2015-06-19
+* [Getting started with Guardian](http://hassox.github.io/elixir/guardian/2015/06/19/guardian-getting-started.html) by Daniel Neighman
 
 
 ### 2015-06-10
