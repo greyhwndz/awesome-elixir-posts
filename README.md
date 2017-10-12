@@ -1,6 +1,6 @@
 # Awesome Elixir Posts
 
-#### Updated on: 2017-10-09
+#### Updated on: 2017-10-12
 
 - [BLOG POSTS](#blog-posts)
 - [VIDEOS](#videos)
@@ -11,6 +11,7 @@
 
 ### 2017-10-09
 * [Everything you need to know about Elixir's new formatter](http://devonestes.herokuapp.com/everything-you-need-to-know-about-elixirs-new-formatter) by Devon C. Estes
+* [The joy of React+Redux with Elixir/OTP](https://limenius.com/elixir-otp-react-redux/) by Nacho Martin
 
 
 ### 2017-10-02
