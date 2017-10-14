@@ -1,6 +1,6 @@
 # Awesome Elixir Posts
 
-#### Updated on: 2017-10-13
+#### Updated on: 2017-10-14
 
 - [BLOG POSTS](#blog-posts)
 - [VIDEOS](#videos)
@@ -1108,6 +1108,7 @@
 * [Embedding Elm in Phoenix](http://blog.overminddl1.com/posts/embedding-elm-in-phoenix/) by OvermindDL1
 * [Counter Caching in Phoenix](https://medium.com/@lukerollans_17079/counter-caching-in-phoenix-8ac372e5c0c5#.hozp3cf7y) by Luke Rollans
 * [Using Ecto 2, without Phoenix, but with tests](http://www.cultivatehq.com/posts/using-ecto-2-without-phoenix-but-with-tests/) by Paul Wilson
+* [Elixir deployments with Distillery: Running ecto migrations](http://blog.firstiwaslike.com/elixir-deployments-with-distillery-running-ecto-migrations/) by Michael Klein
 
 
 ### 2016-08-16
@@ -1133,6 +1134,10 @@
 
 ### 2016-08-15
 * [Elixir - PipeHere](http://blog.overminddl1.com/posts/elixir/pipehere/) by OvermindDL1
+
+
+### 2016-08-13
+* [Rise From the Ashes — Incremental APIs With Phoenix](https://medium.com/@sugarpirate/rise-from-the-ashes-incremental-apis-with-phoenix-b08cd66bd142) by Lauren Elizabeth Tan
 
 
 ### 2016-08-09
