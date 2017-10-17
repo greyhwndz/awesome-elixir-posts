@@ -1,6 +1,6 @@
 # Awesome Elixir Posts
 
-#### Updated on: 2017-10-14
+#### Updated on: 2017-10-17
 
 - [BLOG POSTS](#blog-posts)
 - [VIDEOS](#videos)
@@ -9,14 +9,24 @@
 ## BLOG POSTS
 
 
+### 2017-10-12
+* [Storing Plug sessions with Mnesia](https://medium.com/@ejpcmac/storing-plug-sessions-with-mnesia-c411f7bb604) by Jean-Philippe Cugnet
+
+
 ### 2017-10-10
 * [Learning to Crawl — Building a Bare Bones Web Crawler with Elixir](https://medium.com/@east5th/learning-to-crawl-building-a-bare-bones-web-crawler-with-elixir-afd6e6d37e28) by Pete Corey
+* [Create an Elixir Phoenix API — Part 2— Generate an API Swagger Specification](https://medium.com/everydayhero-engineering/create-an-elixir-phoenix-api-part-2-generate-an-api-swagger-specification-a931536f4c8d) by Aaron Abrook
 
 
 ### 2017-10-09
 * [Everything you need to know about Elixir's new formatter](http://devonestes.herokuapp.com/everything-you-need-to-know-about-elixirs-new-formatter) by Devon C. Estes
 * [The joy of React+Redux with Elixir/OTP](https://limenius.com/elixir-otp-react-redux/) by Nacho Martin
 * [A brief guide to Ecto.Multi](https://medium.com/heresy-dev/a-brief-guide-to-ecto-multi-9c8ea0c729f0) by Svilen Gospodinov
+* [Learning to Crawl - Building a Bare Bones Web Crawler with Elixir](http://www.east5th.co/blog/2017/10/09/learning-to-crawl-building-a-bare-bones-web-crawler-with-elixir/) by Pete Corey
+
+
+### 2017-10-07
+* [Rate-Limiting Phoenix (with Redis too)](http://blog.00null.net/post/166149523731/rate-limiting-phoenix-with-redis-too) by  
 
 
 ### 2017-10-02
@@ -29,6 +39,7 @@
 
 ### 2017-09-27
 * [Communicating with C from Elixir using Ports](http://www.cultivatehq.com/posts/communicating-with-c-from-elixir-using-ports/) by Paul Wilson
+* [Why Your Business Should Use Elixir](https://medium.com/potato-labs/why-we-chose-elixir-958ac6cfcca) by Aaron Vasquez
 
 
 ### 2017-09-26
@@ -49,6 +60,7 @@
 
 ### 2017-09-21
 * [Rails and Phoenix microservice synergy](https://medium.com/@SergeyChechaev/rails-and-phoenix-microservice-synergy-5433598ab333) by Sergey Chechaev
+* [Sharing fixtures between test modules in Elixir](https://medium.com/@ejpcmac/sharing-fixtures-between-test-modules-in-elixir-15add7c7cbd2) by Jean-Philippe Cugnet
 
 
 ### 2017-09-20
@@ -208,6 +220,10 @@
 * [Lessons From Using Phoenix 1.3](https://robots.thoughtbot.com/lessons-from-using-phoenix-1-3) by David Bernheisel
 
 
+### 2017-07-27
+* [A Big Elixir Refactoring](http://devonestes.herokuapp.com/a-big-elixir-refactoring) by Devon C. Estes
+
+
 ### 2017-07-22
 * [Learning Elixir's ETS - Part 2](http://openmymind.net/Learning-Elixir-ETS-Part-2/) by Karl Seguin
 
@@ -222,6 +238,7 @@
 
 ### 2017-07-13
 * [A Year with Cachex in Production](https://whitfin.io/a-year-with-cachex-in-production/) by Isaac Whitfield
+* [My New Favorite Elixir Testing Trick](http://devonestes.herokuapp.com/my-new-favorite-elixir-testing-trick) by Devon C. Estes
 
 
 ### 2017-06-30
@@ -324,6 +341,7 @@
 ### 2017-05-25
 * [Phoenix is better but Rails is more popular](https://hackernoon.com/phoenix-is-better-but-rails-is-more-popular-8975d5e68879) by Stefan Wintermeyer
 * [Phoenix + React: love story. RePh 2.](https://medium.com/@chvanikoff/phoenix-react-love-story-reph-2-14a6dcadbbd0) by Roman Chvanikov
+* [Refactoring for Tests in Elixir](http://devonestes.herokuapp.com/refactoring-for-tests-in-elixir) by Devon C. Estes
 
 
 ### 2017-05-24
@@ -386,6 +404,7 @@
 
 ### 2017-05-09
 * [A Complete Guide to Deploying Elixir & Phoenix Applications on Kubernetes — Part 2: Docker and Minikube](https://blog.polyscribe.io/a-complete-guide-to-deploying-elixir-phoenix-applications-on-kubernetes-part-2-docker-and-81e934c3fceb) by Rohan Relan
+* [Ruby vs. Elixir - Projects & People edition](http://devonestes.herokuapp.com/ruby-vs-elixir-projects-people-edition) by Devon C. Estes
 
 
 ### 2017-05-08
@@ -1096,12 +1115,21 @@
 * [Phoenix Todos - Static Assets](http://www.east5th.co/blog/2016/08/31/phoenix-todos-part-1/) by Pete Corey
 
 
+### 2016-08-24
+* [Phoenix vs Rails: Views and helpers](http://cloudless.studio/articles/25-phoenix-vs-rails-views-and-helpers) by Karol Słuszniak
+* [Writing Elixir Pending Tests](https://medium.com/@ryuichi/writing-elixir-pending-tests-aa05c3e8a563) by Ryuichi Saito
+
+
 ### 2016-08-22
 * [Meteor in Front, Phoenix in Back - Part 2](http://www.east5th.co/blog/2016/08/22/meteor-in-front-phoenix-in-back-part-2/) by Pete Corey
 
 
 ### 2016-08-19
 * [Presence Feature in Elixir](http://mkaszubowski.pl/elixir/2016/08/19/Presence-Feature-in-Elixir.html) by Maciej Kaszubowski
+
+
+### 2016-08-18
+* [Serving Single/Multiple Ember Apps inside Phoenix](https://medium.com/@mustafaturan/serving-single-multiple-ember-apps-inside-phoenix-f0a7528387ea) by Mustafa Turan
 
 
 ### 2016-08-17
@@ -1113,26 +1141,11 @@
 
 ### 2016-08-16
 * [The minimum knowledge you need to start Metaprogramming in Elixir](https://dockyard.com/blog/2016/08/16/The-minumum-knowledge-you-need-to-start-metaprogramming-in-Elixir) by Daniel Xu
-
-
-### 2016-08-15
-* [Meteor in Front, Phoenix in Back - Part 1](http://www.east5th.co/blog/2016/08/15/meteor-in-front-phoenix-in-back-part-1/) by Pete Corey
-
-
-### 2016-08-24
-* [Phoenix vs Rails: Views and helpers](http://cloudless.studio/articles/25-phoenix-vs-rails-views-and-helpers) by Karol Słuszniak
-* [Writing Elixir Pending Tests](https://medium.com/@ryuichi/writing-elixir-pending-tests-aa05c3e8a563) by Ryuichi Saito
-
-
-### 2016-08-18
-* [Serving Single/Multiple Ember Apps inside Phoenix](https://medium.com/@mustafaturan/serving-single-multiple-ember-apps-inside-phoenix-f0a7528387ea) by Mustafa Turan
-
-
-### 2016-08-16
 * [Taking advantage of Phoenix rendering and iodata (part 1)](http://blog.roundingpegs.com/taking-advantage-of-phoenix-rendering-and-iodata-part-1/) by Brian Marick
 
 
 ### 2016-08-15
+* [Meteor in Front, Phoenix in Back - Part 1](http://www.east5th.co/blog/2016/08/15/meteor-in-front-phoenix-in-back-part-1/) by Pete Corey
 * [Elixir - PipeHere](http://blog.overminddl1.com/posts/elixir/pipehere/) by OvermindDL1
 
 
