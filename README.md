@@ -50,7 +50,7 @@
 ### 2017-09-25
 * [Testing Asynchronous Code in Elixir](http://openmymind.net/Testing-Asynchronous-Code-In-Elixir/) by Karl Seguin
 * [Using GraphQL Schema Types with Apollo Server](http://www.east5th.co/blog/2017/09/25/using-graphql-schema-types-with-apollo-server/) by Pete Corey
-* [Testing Asynchronous Code in Elixir](http://openmymind.net/Pattern-Matching-In-Elixir/) by Karl Seguin
+* [Testing Asynchronous Code in Elixir](http://openmymind.net/Testing-Asynchronous-Code-In-Elixir/) by Karl Seguin
 
 
 ### 2017-09-22
